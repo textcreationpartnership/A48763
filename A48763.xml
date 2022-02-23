@@ -1,0 +1,2472 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Patronus redux, or, Our protectour is return'd safe again an historicall poem : containing the Earl of Calander's departure, his stay in England, and the effects thereof upon the town of Falkirk : congratulating his return : and describing his vertues, with their profits communicated unto the said town / composed by M. L.</title>
+            <author>M. L. (Michael Livingston), 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 108 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48763</idno>
+            <idno type="STC">Wing L2604</idno>
+            <idno type="STC">ESTC R1293</idno>
+            <idno type="EEBO-CITATION">13429325</idno>
+            <idno type="OCLC">ocm 13429325</idno>
+            <idno type="VID">99515</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99515)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 464:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Patronus redux, or, Our protectour is return'd safe again an historicall poem : containing the Earl of Calander's departure, his stay in England, and the effects thereof upon the town of Falkirk : congratulating his return : and describing his vertues, with their profits communicated unto the said town / composed by M. L.</title>
+                  <author>M. L. (Michael Livingston), 17th cent.</author>
+               </titleStmt>
+               <extent>67 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Michael Livingston.  Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Callendar, James Livingston, --  Earl of, d. 1674.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99515:1" rendition="simple:additions"/>
+            <pb facs="tcp:99515:1"/>
+            <p>Patronus redux: OR, OUR PROTECTOUR Is return'd ſafe again.</p>
+            <p>
+               <hi>An Hiſtoricall POEM;</hi> CONTAINING The EARL of <hi>CALANDER</hi>'S Departure, his ſtay in <hi>England,</hi> and the Effects thereof upon the Town of <hi>FAL<g ref="char:EOLhyphen"/>KIRK:</hi> Congratulating his Return; and Deſcribing his <hi>Vertues,</hi> with their <hi>Profits</hi> Communicated unto the ſaid Town.</p>
+            <p>Compoſed by <hi>M. L.</hi>
+            </p>
+            <q>
+               <l>—Non ſi malé nunc, &amp; olim</l>
+               <l>Sic erit, <hi>&amp;c.</hi>
+               </l>
+               <bibl>Hor. lib. <hi>2.</hi> od. <hi>10.</hi>
+               </bibl>
+            </q>
+            <p>Paraphraſed thus by <hi>S. W.</hi>
+            </p>
+            <q>
+               <l>Though 'tis bad now, 'twill ſoon be ſpent,</l>
+               <l>
+                  <hi>Apollo</hi>'s Bow's not always bent;</l>
+               <l>But ſometimes he'l the <hi>Muſe</hi> bid ſing,</l>
+               <l>And touch a better string.</l>
+            </q>
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majeſty, Anno DOM.</hi> 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:99515:2"/>
+            <pb n="3" facs="tcp:99515:2"/>
+            <head>To the Right Honourable, THE EARL OF CALANDER.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>WHEN I reflected upon the propitious Aſ<g ref="char:EOLhyphen"/>pects of your honourable <hi>Countenance,</hi> level<g ref="char:EOLhyphen"/>led perpendicularly at your Religious Ob<g ref="char:EOLhyphen"/>ſerver, and upon the growing Profits, day<g ref="char:EOLhyphen"/>ly accruing, from the enjoyment of your <hi>Favour,</hi> unto me, allowed, through the Impulſe of your <hi>Pietie,</hi> to have rea<g ref="char:EOLhyphen"/>dy acceſs thereto; your Lordſhip thus adding <hi>Honours</hi> to a Wit, of purpoſe it might be improven, and beſtowing <hi>Fa<g ref="char:EOLhyphen"/>vours,</hi> that the Receiver might be made capable to deſerve them; I thought it the leaſt part of my Duty to confeſs the Receipt; and humbly to offer to your Lordſhip, this home<g ref="char:EOLhyphen"/>ly <hi>POEM,</hi> not as a competent Retribution, but as an in<g ref="char:EOLhyphen"/>genuous acknowledgement of the Debt Iow you, and ſpeak<g ref="char:EOLhyphen"/>ing Embleme of my duteous <hi>Gratitude,</hi> ſince as <hi>Cicero</hi> ſay<g ref="char:EOLhyphen"/>eth, <hi>Mullum officium referendâ gratiâ magis neceſſarium.</hi> But your Lordſhip, as Protectour and Favourer of the <hi>Muſes,</hi> may challenge a juſt Propriety in the Oblation; 'tis but
+<pb n="4" facs="tcp:99515:3"/>equitable the <hi>Nine,</hi> often Watered with the Refreſhing Showers of your Bounty, and taken care of, that they might Fructifie, ſhould refound ſomething anſwerable to that Induſtry, and by a dutiful acknowledgement of their <hi>Pa<g ref="char:EOLhyphen"/>trone,</hi> let you taſte of the Fruit of your pains; ſo the well manured and fattened Ground, as't were by a thankful Re<g ref="char:EOLhyphen"/>quital, yields a Fertile and Hope-anſwering Crop, to the induſtrious Labourer: Yet, tho the returns of the <hi>Muſes</hi> are far diſproportionable to the Proviſions, 'tis like, they'l ſcarcely be welcome to your ordinary <hi>Modeſty,</hi> being un<g ref="char:EOLhyphen"/>willing to be Illuminated with the reflected Beams of your own <hi>Vertues,</hi> and diſpleaſed to have their Curtain drawn, that others may have Admittance to behold you Act; ſo that I have nothing to make the Fruit of the <hi>Muſes</hi> accep<g ref="char:EOLhyphen"/>table unto you, but this, that they come undeſired, hence <hi>Livius</hi> Writes, <hi>dec.</hi> 1. <hi>lib.</hi> 4. <hi>Gratia at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> honos interdum non cupientibus opporiuniora ſunt.</hi> But if your Lordſhip be chaf'd to be praiſed openly, who is to be blamed? Or how was I admitted a Spectatour, when ſome of your <hi>Vertues</hi> were Acted privily? <hi>Verior famaè domeſticis emanat.</hi> More<g ref="char:EOLhyphen"/>over 'tis granted, that open Praiſes, beſides the Influence they have on others, in prompting them to Emulation, and to Tranſcribe the Copy, redound ſeaſonably to the advan<g ref="char:EOLhyphen"/>tage of the Patient, while they Cultivate and make the Ground, thus Prepared and Seaſoned, more Pliant and Fertile, inflaming the Mind with a deſire to appropriate the Acceſſions, and deſerve (if it were not otherwiſe due to the praiſed) the aſcribed Character.</p>
+            <p>Hence <hi>Silius,</hi>
+               <q>Arripuit traxit<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> virum fax mentis honeſtae Gloria—</q>
+               <pb n="6" facs="tcp:99515:3"/>Others of your <hi>Vertues</hi> preſented unto the view of the world, in behalf of the Republick and your own <hi>People</hi> clame not unjuſtly a publick Regiſter; only I do them this injury, that if I had not too ambitiouſly intrud<g ref="char:EOLhyphen"/>ed upon the Office of <hi>Recorder,</hi> it might have been per<g ref="char:EOLhyphen"/>formed by a better hand, and they had received a more glo<g ref="char:EOLhyphen"/>rious, and authentick Signature.</p>
+            <p>'Twas, My Lord, your placable Diſpoſition, and my officious Zeal, which were inſinuating <hi>Sollicitors,</hi> for the <hi>
+                  <g ref="char:V">Ʋ</g>ndertaking;</hi> 'twas the ineſtimable Talent of your <hi>Fa<g ref="char:EOLhyphen"/>vour,</hi> given to, and depoſited with me, which cheriſht and hatcht this <hi>POEM;</hi> and nothing will raiſe the Va<g ref="char:EOLhyphen"/>lue thereof further, ſo that your Lordſhip's <hi>Favours</hi> may ſeem to be improven, nor will any thing Gratifie the <hi>Au<g ref="char:EOLhyphen"/>thour</hi> more, then to receive it with your wonted <hi>Aſpect,</hi> whereby the <hi>Cruicks</hi> will attempt in vain to undermine the Work, while ſtayed upon the ſolid Rock of your <hi>Heroick Veriues,</hi> and ſeek in vain to diſſeize the <hi>Authour</hi> of your Favour, while ſecured within the Precinct of your Benevolent Thoughts, and indulgent <hi>Overſight.</hi> And that your <hi>Dominions</hi> may be enlarged, and your <hi>Graces</hi> en<g ref="char:EOLhyphen"/>creased and Crown'd with immortal <hi>Glory,</hi> ſhall be the Breath which extinguiſheth the ſmall Taper of my obſe<g ref="char:EOLhyphen"/>quious <hi>Poeſie,</hi> and continueth the courſe of my ſerious <hi>Oratory,</hi> both flowing from</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhips moſt humble and moſt devoted Servant and Vaſſal, <hi>M. L.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="account">
+            <pb facs="tcp:99515:4"/>
+            <pb n="7" facs="tcp:99515:4"/>
+            <head>An Account of the enſuing <hi>Poem,</hi> to his Honoured, and moſt ingenious Friend, Mr. <hi>Alexander Cuninghame,</hi> Profeſſor of Humanity, in the Colledge of <hi>EDINB<g ref="char:V">Ʋ</g>RGH.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT is not the first time I have disturbed you with the Correction of my Poems; your willingneſs to aſſist others, and accurate Judgement upon ſuch Undertakings, ſeem to prevent the Apology for this Addreſs. I know you uſe not to be refractory to Illuminate another's Underſtanding, when it may be done without detriment to your own, and as <hi>Ennius</hi> conſults, <hi>Nihilominus ut Ipſi luceat.</hi> I ingeniouſly confeſs, that this Poem owes much of its Perfection to your controlling hand; and, as much of its Luſtre was borrowed from your qualifying Converſe, ſo aſuitable proportion of the praiſe (if there be any thing landable therein) ought to be ſequeſtred unto you, and ſo much the rather, becauſe the Errors that have eſcaped me in the Compoſition, are only to be appropriated to my ſelf. In this kind of Verſe, viz. <hi>Stanzas</hi> or <hi>Quatrains,</hi> of four in al<g ref="char:EOLhyphen"/>ternate rythme I have imitated <hi>Dryden's Annus Mirabills,</hi> where, in the account of his Poem, he ſhews us both the Dignity, of this kind above all other Verſe in faſhion amongſt them, and the difficulty thereof beyond the couplet Verſe; for, in <hi>Quatrains,</hi> the trouble<g ref="char:EOLhyphen"/>ſome meaning of four Lines together, fall under the care and recognition of the <hi>Poet,</hi> in the last of which, he is not Licens'd to make digreſſion from the quality of the firſt; Whereas in coupiet Verſe, two Lines ſoon terminate the Work, and facilitat the Labour of the Poet, who may aſſume the liberty of ſupplying a part of the Verſe, only for the ſake of Rythme. I have called my Poem <hi>Hiſtorical</hi> not <hi>Epick;</hi> for the ſame reaſon <hi>Dryden</hi> gives for his, viz. the abruptneſs and diſſimilitude of the Action, and the brevity of the Poem, being little longer then the half of his. Altho 'the principal Actours and Acti<g ref="char:EOLhyphen"/>ons in mine be <hi>Heroick</hi> enough, yet, theſe which belong to <hi>Dryden's</hi> ſpheare, have the advantage by militating under the Standard of <hi>Mars,</hi> from whom <hi>Vertue</hi> it ſelf (as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) ſeems to be deriv'd, and conſequently <hi>Militarie</hi> preferable to Moral <hi>Vertue,</hi> which requires not to be imaged with ſuch bright colours of Speech, and elevated Thoughts, as are neceſſary for the raiſing of <hi>Martial</hi> Actions to their due proportion and altitude. I have therefore endeavoured to Portraict this <hi>Hero</hi> with ſuch colours as are moſt conſonant to <hi>Moral Vertues,</hi> rendring the <hi>Poem</hi> as much <hi>Ethical</hi> as <hi>poetical,</hi> be<g ref="char:EOLhyphen"/>ing compoſ'd of the ſublimity and masterſhip of <hi>Maro,</hi> and <hi>Gravity</hi> of <hi>Seneca;</hi> Of the Delicacy of <hi>Ovid,</hi> and Divinity of <hi>Plutarch,</hi> &amp;c. All concurring to make it — <hi>Exemplum imitabile morum.</hi> What cat be more perſwaſive then <hi>Morality,</hi> or amiable then <hi>Vertue,</hi> to the imitation whereof, if the love of the thing, (according to that of <hi>Horace, Od<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>runt peceare boni virtutis amore</hi>) be not a ſaffitient incentive; yet the praiſe of the Action (which <hi>Fabius</hi> made the diſcoverey of his hopeful youth) may pro<g ref="char:EOLhyphen"/>bably intice. 'Tis true, tho' neither the habit of <hi>Vertue</hi> with the <hi>Stoicks,</hi> nor its Acti<g ref="char:EOLhyphen"/>on with the <hi>Peripateticks,</hi> be available to entitle their Poſſeſſour to Beatitude; yet the exerciſe of good Actions, acknowledging their original from the Fountain of true <hi>Vertue, God Almighty,</hi> and levelling at the right Scope, <hi>His Glory,</hi> is, no doubt, profitable
+<pb n="8" facs="tcp:99515:5"/>as the Antecedent and Way, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not as the Cauſe and Merit of Salvation. Beſides the estimate of this <hi>Hero's Vertues</hi> is rais'd, by his not being too much affected with popu<g ref="char:EOLhyphen"/>lar applauſe, nor tranſported with <hi>Fame</hi> and Commendation conferr'd upon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im by othe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, as <hi>Claudian</hi> aptlie expreſſes it, to the praiſe of his <hi>Theodorus</hi> thus — <hi>Nec fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ci<g ref="char:EOLhyphen"/>bus ullis <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Erigltur, pla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſuve petit clareſcere vuigl;</hi> Chuſing <hi>Socrates</hi> com<g ref="char:EOLhyphen"/>pendious way to <hi>Glorie,</hi> by being ſuch indeed as be would ſeem and be accounted to be; ſo that, he needs not regard what prejudice, <hi>Fame</hi> can d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Ve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ue,</hi> which, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ough the obſcure Clouds of <hi>Envy</hi> (<hi>Vertue's</hi> waiting ſhadow) wherewith it has been overcaſt, hath appear'd, the more radiant, and his Spirit, by the outward violence, and vari<g ref="char:EOLhyphen"/>ous aſſaults it hath encounter'd, become the more <hi>Herolek;</hi> of whoſe <hi>Vertue,</hi> that of <hi>Furnius</hi> is <hi>Verified — Vireſcit vulnere virtus.</hi>
+            </p>
+            <p>It will alſo accreſce to the extent of his Praiſe, that his <hi>Vertues</hi> are Illuſtrated by the ſplendour of a noble Parentage, from whom, albeit <hi>N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bil<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> ſhadowed with <hi>Vertue,</hi> might ſeem to have been deriv'd, and propagated to the ſeveral branches, properly ſprung from the ſame, as <hi>Horace</hi> alludes unto <hi>lib. 4 od. 4</hi> thu's
+<q>
+                  <l>Fortes c eantur, fortibus, &amp; bonis:</l>
+                  <l>Eſt in juvencls, eſt in equis patrum</l>
+                  <l>Virtus, nec lmbellem feroces</l>
+                  <l>Progenerant aquilae columbam.</l>
+               </q>
+            </p>
+            <p>Nevertheleſs he hath always esteem'd his claime unto his <hi>Birth-right, Nobility,</hi> to be frivolous and ſlight, unleſs it had been founded upon the merit of his own purchaſe, <hi>Ver<g ref="char:EOLhyphen"/>tue;</hi> as if he had concluded to have forefeited his intereſt in the celebrity of his Progeni<g ref="char:EOLhyphen"/>tours, if he had been unable to acquire, and challenge the ſame, as the due reward of his own, which gives him a just Title (without having recourſe to the Sanctuary of his Anceſtors merits) unto thereverſe of true honour; albeit it may be Problematical, whe<g ref="char:EOLhyphen"/>ther it be more commendable, to have <hi>Vertue</hi> and <hi>Honour</hi> entail'd upon him, as the ef<g ref="char:EOLhyphen"/>fect and quality of the <hi>Original,</hi> or to become himſelf the active and free Cauſe of the pro<g ref="char:EOLhyphen"/>greſs and continuation of the ſame. From all which, every Christian may copy, what <hi>Virgil</hi> preſcriv'd to young <hi>Saloninus, Ecl. 4.</hi>
+            </p>
+            <q>
+               <l>At ſimul <hi>Hero<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m</hi> laudes, &amp; facta p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rentis</l>
+               <l>Jam lege<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, &amp; quae ſit poteris cognoſcere <hi>Virtus.</hi>
+               </l>
+            </q>
+            <p>But to give you a further account of my <hi>Poem</hi> from which the warm Celebration of my <hi>Hero's Vertues</hi> made me a litle digreſs, know that I auſpicate (as a ſure and noble Foundation to the ſucceeding Work) with the pious erogation of an illuſtrious Fountain, flowing from my <hi>Hero's</hi> native Generoſity, towards his obſervant Town <hi>Falkirk.</hi> In this manner of Exordium <hi>Scallger</hi> doth Patronize me, teaching in an Heroick Encomium, at firſt view to introduce the <hi>Hero</hi> (the ſubject of the <hi>Poem</hi>) adorned with the Trophies of ſome of his moſt laudable Actions; Next I inveich againſt Diſeaſes, the cauſe of his departure, whereby <hi>Falkirk</hi> was not only depriv'd of the b<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>fit of ſeveral <hi>Vertues,</hi> viz. <hi>Temperance, Juſtice, Friendſhip, Charity</hi> &amp;c altemanently exemplifi'd in his Pre<g ref="char:EOLhyphen"/>ſence, but alſo ſuſtained numerous and great loſſes in their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riviledges, Estates and Cre<g ref="char:EOLhyphen"/>dits; and the damnage, which, through the death of ſome of thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Friends and Benefactors, accru'd unto them, ſeem'd even to be extenuated and compens'd by his Pre<g ref="char:EOLhyphen"/>ſence, of which being depriv'd, they were extreamly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted, till (now ſenſible of their low eſtate) they become Supplicants to the Throne of <hi>Grace;</hi> which <hi>Affliction</hi> (as <hi>Gre<g ref="char:EOLhyphen"/>gory</hi> well Obſerves) aims to conduct men unto; And lo their Addreſs (a motive to ex<g ref="char:EOLhyphen"/>cite others to Devotion in the like condition) ſeems not to have been unſeaſonable, for their
+<pb n="9" facs="tcp:99515:5"/>Petitions are return'd indorſed with a <hi>fiat ut petitur;</hi> and the glad return of their <hi>Lord</hi> and <hi>Patrone,</hi> proven now to be their beſt <hi>Tutelar</hi> in Adverſity, and fitteſt Superſcription of my Poem doth ſoon constitute the wiſh'd effect of their prayers, which compleats the firſt part of my Poem.</p>
+            <p>The ſecond part of my Poem contains <hi>Calander's</hi> Return, which the Town and others ſolemnly congratulate; and the Rendevouze of all theſe <hi>Vertues</hi> again, which, at his departure, forſook their Reſidence in the Town; making up a part of the Retinue which attended him home. In this Collection, I do not muſter up any new <hi>Vertue,</hi> di<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ering from theſe mentioned as Concomitants of his departure; but only condeſcend upon the ſeveral Streames and numerous Iſſue, that may be drain'd from theſe prefixed Heads, and appoſit<g ref="char:EOLhyphen"/>ly referr'd unto the ſame. It were improper to conceive that theſe <hi>Vertues,</hi> accompanying him, ſhould be reduc'd unimprov'd, ſeeing <hi>Activitie</hi> is ſuppos'd to be eſſential to <hi>Vertue,</hi> which, unoccup<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d, muſt forgo its property, and degenerate into an ignoble habit: For example, under <hi>Temperance,</hi> that general Head, are compriz'd <hi>Frugality, Liberality,</hi> and <hi>Sobriety,</hi> all tending to moderate the paſſions of the mind, and ſubjected to tem<g ref="char:EOLhyphen"/>perance, not improperly term'd the <hi>modus in Rebus,</hi> which <hi>Horace</hi> ſpeaks of, <hi>Sat. 1. lib. 1.</hi> From <hi>Loyaltie</hi> (the dutie which all Subjects ow to their Soveraign) I took occa<g ref="char:EOLhyphen"/>ſion to ſpeak of the gallantry and dignity if the Family he deſcended from, much celebrat<g ref="char:EOLhyphen"/>ed for their obedience to their <hi>Prince;</hi> As alſo, to reflect upon <hi>publick</hi> and private Bu<g ref="char:EOLhyphen"/>ſineſs, praevious to the conſideration of <hi>Court</hi> and <hi>Countrey;</hi> his own private Dwelling laying before him all the Charms imaginable, to engage his ſuffrage for the latter. From Trade, it follow'd not impertinently to Treate of his Care and Overſight of the Inhabitants; of the ſeveral <hi>Vertues</hi> employ'd by him, in Ruling over them, having influence upon their manners; And, lastly, of his good Turns done to, and Favours bestow'd upon the Town, contributing much to the advancement of <hi>Trade,</hi> to the conciliating the Affections of the Inhabitants, ſignified by their zealous Prayers, for the promoting of their <hi>Patron's</hi> pre<g ref="char:EOLhyphen"/>ſent and future Felicity. Thus I have given you an Account of my Poem, and method thereof I doubt not but you'l approve the Argument, which, I confeſs, is but ill manag'd; The advantage of the eaſineſſe, and pleaſantneſs of the Subject (inſinuated before in the compariſon of <hi>Military</hi> and <hi>Moral Vertue</hi>) will certainly prove matter of Indictment a<g ref="char:EOLhyphen"/>gainſt the Author, culpable in not performing what the Fertility of the Argument might have miniſtred unto me; But I am ſo zealous of your Reputation, that I ſhould not have written any thing unworthy of my <hi>Maſter,</hi> if it could not ſecurely paſs under the venerable notion of your <hi>Schollar.</hi> Albeit your <hi>Modeſty</hi> hath hitherto reſtrain'd your own appear<g ref="char:EOLhyphen"/>ance in <hi>publick;</hi> yet you have not fail'd, to lend me as much Light, as might give me confidence to appear for you; but whether out of too much indulgence to my <hi>Muſe,</hi> and forbearance to check my raſh forwardneſs, (for nothing can reliſh worſe with a Poet tho' ne<g ref="char:EOLhyphen"/>ver ſo bad, then to debaſe his Works) or out of the juſt ſenſe of your own ſufficiency to de<g ref="char:EOLhyphen"/>fend my failings, you have emboldened me to face the Light, I ſhall not determine: But whatever way I am enfranchiſed. I have learned ſo much diſcretion, as not to question the Authority of my <hi>Patron,</hi> and acquir'd ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch courage, as not to be ſcarr'd, by all the So<g ref="char:EOLhyphen"/>phiſms of our ſnarling <hi>Criticks,</hi> from aſſerting the equity of my <hi>Cauſe,</hi> and ſoundneſs of my Poſitions, if once paſſ'd the Teſt of your Judgement. Its like the growth of my years may give you ground to expect from me now a <hi>Valedictory</hi> to <hi>Poeſie;</hi> and indeed, upon the ſame account, <hi>I</hi> have but ſmall encouragement to fruſtrate your Expectation; For, tho' <hi>Poe<g ref="char:EOLhyphen"/>ſie</hi> be no improper ſtudy and divertiſement to <hi>Youth,</hi> pregnant with Humour and Luxuri<g ref="char:EOLhyphen"/>ant Fancy, the Soile in which <hi>Verſe</hi> thrives beſt, yet it becomes unluckie and barren,
+<pb n="10" facs="tcp:99515:6"/>when the <hi>Imagination</hi> is ſenſiblie drain'd, and empaired of theſe copious <hi>proviſions,</hi> by ſu<g ref="char:EOLhyphen"/>pervenient Manhood, ſhooting forth the nobler Blooms of <hi>Reaſon</hi> and <hi>Memory;</hi> which, as 'twere by the natural courſe, ſucceed to be <hi>Occupi'd.</hi> Conſidering the contumelit and harſh cenſures <hi>Poets</hi> are obnoxious unto, for, as the E. of <hi>Roſecommon</hi> on <hi>Horace's</hi> Art of <hi>Poetrie,</hi> ſings,
+<q>
+                  <l>Now lunacie that's paſt the cure of Art,</l>
+                  <l>With a long Beard and ten long dirty Nails,</l>
+                  <l>Paſs currant for <hi>Apollo's</hi> Livery.</l>
+               </q> And conſidering the difficulty, now, to reconcile the opinion of Wiſe men to the perſon of a Poet, for tho' ſome stand well affected to <hi>Poeſie,</hi> they will hardly allow a grain weight of favour to the <hi>Poet;</hi> I need not be ſollicitous to preſerve the Title; Nor ſtick for any prefe<g ref="char:EOLhyphen"/>rable Claime to the Poſſeſſion, or ſeen advantage in the encloſure, to renounce my Infeſtment in <hi>Parnaſſus.</hi> Wherefore I freely ſurrender my Poetical Priesthood, only I deſire that, when I have reſign'd the Badge of that whin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing profeſſion, none would be ſo injurious as to de<g ref="char:EOLhyphen"/>tain from me the pledge of my <hi>Reputation,</hi> nor object to me the Stile, when I have aban<g ref="char:EOLhyphen"/>don'd the <hi>Benefice</hi> And now ſeeing I muſt give you the trouble of Correcting my Poem, I ſhall alſo give you encouragement to diſpenſe with it, by acquainting you, 'tis the laſt: And as the Patrone of a poſthumous Work, might expect a thankful acknowledgement from the Author, if it ſhould happen he were reviv'd again, ſo, methinks, you ought not to be diſappointed of the like meaſure of gratitude from the ſurviving Authour of this Poem, who is thus engag'd unto you, and ſhall ever ſtudy to acquit himſelf, as</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your most humble and obliged Servant. <hi>M. L.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb n="11" facs="tcp:99515:6"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <l>WHen on this Poem, Kind Sirs, ye reflect</l>
+            <l>Both of a frowning, and benign aſpect,</l>
+            <l>Ye need not ſeek in its croſs form, to Dig</l>
+            <l>For the new Stamps of <hi>To<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie,</hi> and of <hi>Whig.</hi>
+            </l>
+            <l>Nor from thir nice <hi>Diſtinctions, Rich,</hi> and <hi>North,</hi>
+            </l>
+            <l>Conclude, abſurdly, ſuch men to be worth.</l>
+            <l>For I bewitch'd to <hi>Harmonie</hi> by Rhimes</l>
+            <l>Dare not indulge the Diſcords of the Times.</l>
+            <l>Nor, ſimplie, vaunt to either hand t'ave play'd,</l>
+            <l>When in the mean time <hi>Vertue</hi> is <hi>betray'd.</hi>
+            </l>
+            <l>When Star-Divines, agreed in Notes, preſage</l>
+            <l>The Ills, which are, next year, to fill the Stage:</l>
+            <l>When ſeeret Fate may that to Life recal,</l>
+            <l>On which time had beſtow'd a <hi>Funeral.</hi>
+            </l>
+            <l>The Fable of the Lion and the Fox</l>
+            <l>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y now be appli'd, ſince on the <hi>Gallick Pox</hi>
+            </l>
+            <l>Men are as apt to ſplite, as Ships on Rocks.</l>
+            <l>He who deſires to ſhun the <hi>Sirens</hi> Charms,</l>
+            <l>And to hug Lab'ring <hi>Vertue</hi> in his arms;</l>
+            <l>Let him <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes</hi> trace, that Man of Fame,</l>
+            <l>Or Read this <hi>Hero,</hi> our well-choſen Theame,</l>
+            <l>And if he grow not wiſe, he can't the Poet blame.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:99515:7"/>
+            <pb n="13" facs="tcp:99515:7"/>
+            <head>Patronus redux: OR, OUR PROTECTOUR Is return'd ſafe again.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>WEre ever people happier then were we?</l>
+               <l>
+                  <hi>Plentie</hi> and <hi>Peace</hi> bound long unto our Shore;</l>
+               <l>From the<note n="†" place="bottom">The drouth which happened in <hi>June</hi> and <hi>July, 1681.</hi>
+                  </note> hot Plague of Summer's Feaver free,</l>
+               <l>When freſh<note n="‡" place="bottom">The Well brought in to the Town by the E. <hi>May 29.</hi> was then ſerviceable unto the Inhabitants.</note> Springs were convey'd unto our Door.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Theſe, under <hi>Calander,</hi> we did enhanſe,</l>
+               <l>Of the<note n="*" place="bottom">K. C. <hi>2.</hi>
+                  </note> firſt mover's Reign the bleſt Effect,</l>
+               <l>Tho' the near Stars ſeem t'ave great radiance,</l>
+               <l>And with ſtrong influence on us to reflect.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Wee'd taſted ſcarce the Fruits of his abode,</l>
+               <l>The Summer of his Preſence ſcarce enjoy'd,</l>
+               <l>When Critick <hi>Health</hi> him quickly call'd abroad,</l>
+               <l>And his Departure our Delights deſtroy'd.</l>
+            </lg>
+            <lg n="4">
+               <pb n="14" facs="tcp:99515:8"/>
+               <head>4.</head>
+               <l>Ev'n ſo from<note n="†" place="bottom">Theſe dwelling in <hi>Greenland,</hi> and <hi>Iſland,</hi> ſituate between the Polar Artick Circle and the North Pole.</note> thoſe plac'd in the frigid <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one,</l>
+               <l>The Sun withdrawes his all-refreſhing Light,</l>
+               <l>And the freſh Pleaſures of their Day anone,</l>
+               <l>End in the ſable weed of a long Night.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>Did we not fully prize your influence?</l>
+               <l>That you, ſo ſoon, t'eclipſe your ſplendour chus'd,</l>
+               <l>Thus to diſplace your <hi>Vertue,</hi> and drive hence</l>
+               <l>The happineſs, which we, it ſeems, abus'd.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>So men, when ſound and ſtrong, ne'r reckon more</l>
+               <l>
+                  <hi>Health's</hi> value, then did <hi>Aeſop's</hi> Cock the Gemm;</l>
+               <l>
+                  <note n="†" place="bottom">Homines non prius intelligunt ſua bona, quam cum ea amiſerunt, quae habuerune in poteſtate. <hi>Plaut.</hi> &amp; <hi>Soph.</hi>
+                  </note>Till once thereof depriv'd, then they adore,</l>
+               <l>What they before, poſſeſs'd of, did contemn.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>What curs'd<note n="†" place="bottom">Diſeaſes are the effect of ſin. <hi>Jo. 5.14.</hi>
+                  </note> Diſeaſes ſtill this Clime infeſt?</l>
+               <l>And drive men in purſuit of health abroad;</l>
+               <l>Theſe<note n="‡" place="bottom">The Serpent the firſt enticer to ſin. <hi>Gen. ch. 3.</hi>
+                  </note> Serpents ſure are brooding in the Weſt,</l>
+               <l>While undevour'd by great <hi>Mon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>roſe</hi> his Rod.</l>
+            </lg>
+            <lg n="8">
+               <pb n="15" facs="tcp:99515:8"/>
+               <head>8.</head>
+               <l>Sin was the thing which Mankind did defile,</l>
+               <l>And, ſince, <hi>Rebellion</hi> hath the Earth o'rrun;</l>
+               <l>Sure the <hi>Black</hi>
+                  <note n="*" place="bottom">The Box ſent from <hi>Jupiter,</hi> with Pandora to <hi>Epimetheus,</hi> out of which, being opened all kind of evils flow, and fill'd the Earth with Diſeaſes.</note> 
+                  <hi>Box</hi> was op'ned in this Iſle,</l>
+               <l>If where the ſin increaſt theſe <hi>Ills</hi> begun.</l>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>In his aſpect, enough t'ave made us proud,</l>
+               <l>More then the <hi>Indian</hi> wealth we did engroſs,</l>
+               <l>While under it the <hi>Vertues</hi> all did ſhroud,</l>
+               <l>And nothing could our thriving Labours croſs.</l>
+            </lg>
+            <lg n="10">
+               <head>10.</head>
+               <l>Lo' it no ſooner in black Clouds was wrapt,</l>
+               <l>But, ſenſiblie, we felt our ſtate decline,</l>
+               <l>Each <hi>Vertue</hi> ſhrunk away, as Thunder-clapt,</l>
+               <l>And ev'rie thing our ruine did deſigne.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>Juſtice<note n="‡" place="bottom">
+                     <hi>'Tis taken from</hi> Theognis. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. (1) Juſtitia i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e virtutes continet omnes.</note> which all the reſt doth repreſent,</l>
+               <l>With an offended eye aſquint did look;</l>
+               <l>The one to us, his Creatures, was but lent,</l>
+               <l>Th' other fixt on him, her<note n="†" place="bottom">
+                     <hi>The three Precepts of the Civil Law,</hi> viz. Honeſte vivere, Alterum non laedere, Jus ſuum cui<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> dare.</note> three-footed Book.</l>
+            </lg>
+            <lg n="12">
+               <pb n="16" facs="tcp:99515:9"/>
+               <head>12.</head>
+               <l>Grave <hi>Temperance,</hi> when we her Bridle held,</l>
+               <l>Was, from the<note n="*" place="bottom">Temperance is called from the Hebrew, <hi>Dober. (1)</hi> the meane of a thing Hence <hi>Cic. Temperantia eſt moderatio cupiditatum rationi obediens.</hi>
+                  </note> 
+                  <hi>mean,</hi> turn'd into looſe exceſs,</l>
+               <l>The Reins, like <hi>Phaeton,</hi> we could not wield,</l>
+               <l>And, without Guide, the way but only gueſs.</l>
+            </lg>
+            <lg n="13">
+               <head>13.</head>
+               <l>Sweet <hi>Friendſhip</hi>
+                  <note n="*" place="bottom">Aurum igne, amicitia rebus adverſis probatur. Embl. <hi>N. Chytr.</hi>
+                  </note> which adverſitie doth prove,</l>
+               <l>As if grown peeviſh, ſtraight forſook our road;</l>
+               <l>She, without him, could not find mutual <hi>Love,</hi>
+               </l>
+               <l>Nor we trace her, but where he made abode.</l>
+            </lg>
+            <lg n="14">
+               <head>14.</head>
+               <l>Lo! Chriſtian <hi>Charitie,</hi> as wounded, bled,</l>
+               <l>Its Objects ſeem'd by meagre Cheeks to mourn,</l>
+               <l>The poor by no religious <hi>Marie</hi> fed,</l>
+               <l>And all the Land, <hi>
+                     <g ref="char:V">Ʋ</g>nchriſtian,</hi> ſeem'd to turn.<note n="†" place="bottom">The Chriſtian Name of the Counteſs of <hi>Calander:</hi> Theſe are recorded in Scripture for their Pietie and Charitie.</note>
+               </l>
+            </lg>
+            <lg n="15">
+               <head>15.</head>
+               <l>
+                  <note n="*" place="bottom">
+                     <hi>(1)</hi> Theſe on whom he us'd to conferr favours.</note>The inſtances of his indulgent Heart,</l>
+               <l>And ſumptuous <hi>Well</hi> grief, diverſlie, did ſhow;</l>
+               <l>While theſe diſſolv'd in tears, unforc'd by Art,</l>
+               <l>And this, grown feav'riſh, did<note n="†" place="bottom">The Pipe ſometimes was ſtopt, ſometimes the water fled through the ſecret little bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es in the Pipe.</note> forbear to flow.</l>
+            </lg>
+            <lg n="16">
+               <pb n="17" facs="tcp:99515:9"/>
+               <head>16.</head>
+               <l>True <hi>Loyaltie,</hi> the <hi>A. B. C.</hi> of our Youth,</l>
+               <l>Departed not, but lay as't were aſleep;</l>
+               <l>Occaſion call'd us not t' aſſert the truth,</l>
+               <l>Loth, without Shepherd, to diſturb the Sheep.</l>
+            </lg>
+            <lg n="17">
+               <head>17.</head>
+               <l>The <hi>Muſes,</hi> ſince <hi>Mecaenas</hi> he retir'd,</l>
+               <l>To whom, tho' abſent, they paid due reſpect;</l>
+               <l>
+                  <note n="*" place="bottom">They wanted a Bowle of the <hi>French Nectars;</hi> wherewith, at a ſet hour in the afternoon, he uſ'd to exhilarate them.</note>Were no more with the gen'rous grapes inſpir'd,</l>
+               <l>Nor got a<note n="†" place="bottom">A Miſtriſs in the Intellect: <hi>(1) Ens rationis;</hi> for ſo the E. deſigned the Authors Miſtriſs.</note> Miſtreſs in the Intellect.</l>
+            </lg>
+            <lg n="18">
+               <head>18.</head>
+               <l>
+                  <hi>Religion,</hi> which was wont to lead the <hi>Van,</hi>
+               </l>
+               <l>Came up, like tired Souldiers, in the <hi>Rear,</hi>
+               </l>
+               <l>All then, b'<note n="*" place="bottom">Scilicet in vulgus manant exempla regentum. Claud.</note> example drawn, to Service ran,</l>
+               <l>Such is th' advantage of an<note n="†" place="bottom">In the Greek 'tis <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Epiſcopus. <hi>Hector</hi> was ſo deſigned by <hi>Homer.</hi> becauſe he had a care of, and defended <hi>Troy.</hi>
+                  </note> 
+                  <hi>Overſeer.</hi>
+               </l>
+            </lg>
+            <lg n="19">
+               <head>19.</head>
+               <l>
+                  <hi>Trade,</hi> which before here conſtantly did flow,</l>
+               <l>And made the Town of forraign Wealth to boaſt,</l>
+               <l>Robb'd of its <hi>Noble Patrone,</hi> fell as low;</l>
+               <l>The Town its Traffick, Trade its Freedom loſt.</l>
+            </lg>
+            <lg n="20">
+               <pb n="18" facs="tcp:99515:10"/>
+               <head>20.</head>
+               <l>Our foes occaſion catcht us to diſtreſs,</l>
+               <l>And ev'rie pettie foe appear'd too ſtrong;</l>
+               <l>To him, our <hi>Guardian,</hi> we could not addreſs,</l>
+               <l>Our ſelves unable to repair a wrong.</l>
+            </lg>
+            <lg n="21">
+               <head>21.</head>
+               <l>To ev'rie ſtroak our Body open lay,</l>
+               <l>And what was aim'd againſt us did not miſs:</l>
+               <l>But, like his abſence, none did ſo diſmay,</l>
+               <l>
+                  <note n="‡" place="bottom">
+                     <hi>From</hi> Virgil, Quiſque ſuos patimur Manes. Aeneid. 6.</note>Each ſuff' red a peculiar blow by this.</l>
+            </lg>
+            <lg n="22">
+               <head>22.</head>
+               <l>
+                  <note n="*" place="bottom">
+                     <hi>Normand Livingſtoun</hi> of <hi>Milnhills,</hi> who had been Sheriff-depute and Baille of the Regalitie of <hi>Falkirk,</hi> dieth.</note>
+                  <hi>Normand,</hi> our temper who exactlie knew,</l>
+               <l>And could a Salve applie to ev'ry ſore;</l>
+               <l>Soon from our Helm the awful Pow'rs withdrew,</l>
+               <l>When our affairs requir'd a double Oar.</l>
+            </lg>
+            <lg n="23">
+               <head>23.</head>
+               <l>The Pow'rs were angrie ſtill, there yet remain'd</l>
+               <l>
+                  <note n="†" place="bottom">
+                     <hi>John Livingſtoun</hi> of <hi>Kirkland,</hi> Tackſ-man of the Exciſe of the Pariſh, and My Lord <hi>Calander</hi>'s Truſtee, is burnt in his own Houſe, within the Wood (while a cutting) by an accidental Fire, fireing and deſtroying the Houſe; his death and loſſe being much regrated by the Earl, Town, and others.</note>A pious Hoſtie, to appeaſe their ire;</l>
+               <l>So maſſie Gold, for better uſe ordain'd,</l>
+               <l>Muſt thus be tri'd, and purifi'd by <hi>Fire.</hi>
+               </l>
+            </lg>
+            <lg n="24">
+               <pb n="19" facs="tcp:99515:10"/>
+               <head>24.</head>
+               <l>The blood of Beaſts, it ſeems, the Gods deride,</l>
+               <l>Man, harmleſs man, both Prieſt and Victime is;</l>
+               <l>He, able only th' firie Teſt t'abide,</l>
+               <l>Muſt expiate our guilt, procure our <hi>Bliſs.</hi>
+               </l>
+            </lg>
+            <lg n="25">
+               <head>25.</head>
+               <l>
+                  <note n="‡" place="bottom">Humano autem ſanguine placari defanctorum animas credebant. <hi>See</hi> Farnabius <hi>his Notes on the Tragedy of</hi> Seneca, <hi>called</hi> Troas. chor. <hi>115.</hi>
+                  </note>Or are the Defunct's Souls, by humane Blood,</l>
+               <l>As th' Heathens fanci'd, now to be appeas'd?</l>
+               <l>Nay rather he, who courted ſhades and woods,</l>
+               <l>A living Tree in<note n="*" place="bottom">
+                     <hi>Elyſium,</hi> it ſignifieth, in the Hebrew, <hi>Dei nemus.</hi>
+                  </note> Paradiſe is plac'd.</l>
+            </lg>
+            <lg n="26">
+               <head>26.</head>
+               <l>Our tryal was not o'r, until the<note n="†" place="bottom">John Brown <hi>of</hi> Seabegs, <hi>Town-clerk dies.</hi>
+                  </note> 
+                  <hi>Clerk</hi>
+               </l>
+               <l>Had a ſurceaſe unto our <hi>Worthies</hi> ſign'd;</l>
+               <l>Fate knew that if the writing bore his mark,</l>
+               <l>'T would paſs<note n="‡" place="bottom">What he wrote and ſignd was still counted Authentick; his honeſty being notour in the place.</note> unqueſtion'd by the reſt behind.</l>
+            </lg>
+            <lg n="27">
+               <head>27.</head>
+               <l>
+                  <note n="*" place="bottom">
+                     <hi>Columen patriae, mora fatorum,</hi> they were aſcribed to <hi>Hector;</hi> See the Chorus of the firſt Act of <hi>Seneca's</hi> Tragedie, called <hi>Troas.</hi>
+                  </note>Theſe were the Pillars of our Loyal Town,</l>
+               <l>And chiefeſt <hi>remora</hi> of the Fates below;</l>
+               <l>Whom Secret Fate no ſooner had o'rthrown,</l>
+               <l>But we receiv'd th' impendent Fatal Blow.</l>
+            </lg>
+            <lg n="28">
+               <pb n="20" facs="tcp:99515:11"/>
+               <head>28.</head>
+               <l>In this our Triple loſs, he alſo ſhar'd,</l>
+               <l>But, by his care and bounty, 'twas ſuppli'd,</l>
+               <l>His chearing <hi>Preſence</hi> then our grief empair'd,</l>
+               <l>Now when the cauſe is given, the cure's deni'd.</l>
+            </lg>
+            <lg n="29">
+               <head>29.</head>
+               <l>So when the<note n="†" place="bottom">The great Fire in <hi>London, Anno 1666.</hi>
+                  </note> Flames proud <hi>London</hi>'s Beautie ſtain'd,</l>
+               <l>And made her Lovers to diſſolve in grief;</l>
+               <l>The <hi>Royal</hi> Arm on it his Bountie rain'd,</l>
+               <l>And from his ſucc'ring looks each fetcht relief.</l>
+            </lg>
+            <lg n="30">
+               <head>30.</head>
+               <l>To crouching thoughts at home we were enſlav'd,</l>
+               <l>And the aſſaults of future fear did kill;</l>
+               <l>Lo! diſtant comfort there our hopes deceiv'd,</l>
+               <l>When here were preſent<note n="8" place="bottom">Many evil; and calamities, ſuch as happened at the Siege of <hi>Illum</hi> or <hi>Troy,</hi> which laſted ten years.</note> 
+                  <hi>Iliads</hi> of ill.</l>
+            </lg>
+            <lg n="31">
+               <head>31.</head>
+               <l>
+                  <note n="†" place="bottom">Ut nulla dies moerore caret, ſed nova fletus cauſa miniſtrat ite ad plan<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>us. Sen. in Troade. chor. lin. <hi>76.</hi>
+                  </note>A maſs of ſorrow each day is ingroſt,</l>
+               <l>For freſh Tears yielding matter, time, and place:</l>
+               <l>As if the curſes of that<note n="‡" place="bottom">Tantalus.</note> bloody Ghoſt,</l>
+               <l>Had fallen on us, and miſs'd<note n="*" place="bottom">Atreus &amp; Threſtes. <hi>See the firſt Act of</hi> Seneca's Thyeſtes.</note> his own</l>
+               <l>Son's race.</l>
+            </lg>
+            <lg n="32">
+               <head>32.</head>
+               <l>What <hi>Love,</hi> dear <hi>Patron,</hi> hath us diſpoſſeſs'd,</l>
+               <l>Your promiſed return, what fates retard?</l>
+               <l>
+                  <pb n="21" facs="tcp:99515:11"/>Tho' <hi>Love</hi> ſhould cool, while we are ſore diſtreſs'd;</l>
+               <l>Yet <hi>Honour</hi> bids you your own words regard.</l>
+            </lg>
+            <lg n="33">
+               <head>33.</head>
+               <l>Make haſt t'expel our foes, and bear the ſhock,</l>
+               <l>
+                  <note n="‡" place="bottom">Quam longa <hi>Danais</hi> ſemper in portu mora. Sen. in Tro. act. <hi>2.</hi>
+                  </note>O linger not, like th'</l>
+               <l>
+                  <hi>Graecians,</hi> in the port;</l>
+               <l>Return as Victour to his vanquiſht Flock,</l>
+               <l>Or, to your unfenc'd people, a ſtrong Fort.</l>
+            </lg>
+            <lg n="34">
+               <head>34.</head>
+               <l>It ſeems the Gods did in this Kingdom fix</l>
+               <l>Their plagues, and nothing could our ſin attone;</l>
+               <l>Thus<note n="*" place="bottom">The Poet Laureat in <hi>England,</hi> who wrote a Poem, entituled, <hi>Annus Mirabilis</hi> or, Year of Wonders, <hi>1666.</hi> &amp;c.</note> 
+                  <hi>Dryden</hi>'s year of wonders, ſixty ſix,</l>
+               <l>Was but accompliſhed in eighty one.</l>
+            </lg>
+            <lg n="35">
+               <head>35.</head>
+               <l>O thou whoſe pleaſure ord'reth ev'ry thing,</l>
+               <l>And nothing done eſcapes thy piercing Eye;</l>
+               <l>A ſpeedie period to my ſuff'rings bring,</l>
+               <l>And let me next the<note n="†" place="bottom">Fortiter malum qul patitur idem poſt potitur bonum, <hi>Plaut.</hi>
+                  </note> good impli'd</l>
+               <l>eſpy.<note place="bottom">Falkirk's <hi>Prayer.</hi>
+                  </note>
+               </l>
+            </lg>
+            <lg n="36">
+               <head>36.</head>
+               <l>Grant, while I hope my troubles to eſcape,</l>
+               <l>And of ill Men and Dev'ls the ſubtile Plot;</l>
+               <l>That I may the ſurviving profit reap,</l>
+               <l>
+                  <note n="*" place="bottom">Quae fuit durum pati, meminiſse dulce eſt. <hi>Sen.</hi> in <hi>Herc.</hi> fur.</note>The ſweet remembrance of my former</l>
+               <l>lot.</l>
+            </lg>
+            <lg n="37">
+               <pb n="22" facs="tcp:99515:12"/>
+               <head>37</head>
+               <l>Make me thus by affliction grow more wiſe,</l>
+               <l>And like th' oppreſſed Palm, aſcend more high,</l>
+               <l>Out of thir mournful Aſhes make me riſe</l>
+               <l>The more Renown'd, by a new progenie.</l>
+            </lg>
+            <lg n="38">
+               <head>38.</head>
+               <l>Renew my <hi>Patron's</hi> health, too long bereft,</l>
+               <l>But the dear purchaſe ſafe at home tranſplant,</l>
+               <l>Wherein, to's Welcome, during life infeft</l>
+               <l>He may ne'r it, nor we the Owner want.</l>
+            </lg>
+            <lg n="39">
+               <head>39.</head>
+               <l>Grant us Remorſe, and this thy Doom reſtrain,</l>
+               <l>Thy Judgements, Lord, on us do not entail;</l>
+               <l>And if our Paſtor can no reſpite gain,</l>
+               <l>Lord let the Biſhop of our Souls prevail.</l>
+            </lg>
+            <lg n="40">
+               <head>40.</head>
+               <l>To thaw our Froſts make our warm Sun appear,</l>
+               <l>And our eclips'd Horizon repoſſeſs;</l>
+               <l>Grant the Land-Frigate homeward 'gain may ſteer,</l>
+               <l>That we may yet retrieve our happineſs.</l>
+            </lg>
+            <lg n="41">
+               <head>41.</head>
+               <l>Our pray'rs were heard, thus th' eaſie Gods ſoon are,</l>
+               <l>By pious Airs of the afflicted, pleas'd;</l>
+               <l>As ſoon as <hi>Jonah</hi> made his mournful Pray'r</l>
+               <l>He from the ſcalie Priſon was releas'd.</l>
+            </lg>
+            <lg n="42">
+               <pb n="23" facs="tcp:99515:12"/>
+               <head>42.</head>
+               <l>As<note n="†" place="bottom">
+                     <hi>Marcus Tullius Cicero,</hi> v. Epiſt. Fam. lib. 2. Ep. 11. &amp; lib. 7. Ep. 3.</note> 
+                  <hi>Tullie</hi> to</l>
+               <l>the City 'gain to hie</l>
+               <l>His covetous deſire could not withſtand;</l>
+               <l>Ev'n ſo our Patriot caſt a longing eye,</l>
+               <l>Far back reflected on his native Land.</l>
+            </lg>
+            <lg n="43">
+               <head>43.</head>
+               <l>Yet here always, tho' diſtant far from this,</l>
+               <l>B' ubiquitie of care, he preſent was;</l>
+               <l>So <hi>Ovid</hi> his dumb<note n="*" place="bottom">Sine me liber ibis in urbem, <hi>&amp;c.</hi> Triſt. lib. <hi>1.</hi> Eleg. <hi>1.</hi>
+                  </note> Legat did</l>
+               <l>diſmiſs</l>
+               <l>To <hi>Rome,</hi> when there the Maſter could not paſs.</l>
+            </lg>
+            <lg n="44">
+               <head>44.</head>
+               <l>As ſoon's he had ſurvey'd it in his mind,</l>
+               <l>He was tranſported hither by deſire;</l>
+               <l>His winged fancy could ſweet footing find,</l>
+               <l>VVhere he from cares of Court wont to retire.</l>
+            </lg>
+            <lg n="45">
+               <head>45.</head>
+               <l>No wonder he preferr'd this Plot of ground</l>
+               <l>To th' <hi>Engliſh</hi> Dales, which tempted but his Eyes;</l>
+               <l>Here all theſe Pleaſures, without price, abound,</l>
+               <l>Planting at home his Earthlie Paradiſe.</l>
+            </lg>
+            <lg n="46">
+               <head>46.</head>
+               <l>He payes, afar, a Viſit to the Town,</l>
+               <l>On which he ample Ben'fits did beſtow;</l>
+               <l>Obſcure and low, bereft of <hi>Patrone,</hi> grown,</l>
+               <l>VVhoſe riſe again to him alone muſt ow.</l>
+            </lg>
+            <lg n="47">
+               <pb n="24" facs="tcp:99515:13"/>
+               <head>47.</head>
+               <l>Nor Law, nor Order did amongſt them thrive,</l>
+               <l>As if they had been under Pupillage;</l>
+               <l>But whoſe free courſe his preſence will revive,</l>
+               <l>
+                  <note n="†" place="bottom">— ac cuncto ſurget gens aurea civi; <hi>Virg. Ecl: 4.</hi>
+                  </note>And bring on them again the Golden</l>
+               <l>age.</l>
+            </lg>
+            <lg n="48">
+               <head>48.</head>
+               <l>As when <hi>Aurora</hi> drawes away the Skreen</l>
+               <l>From Earth, and with Vermilion paints the Skie,</l>
+               <l>The Sun in our <hi>Horizon</hi> ſtraight is ſeen,</l>
+               <l>Impatient till her Beauties he eſpy.<note place="bottom">His Lady firſt returns.</note>
+               </l>
+            </lg>
+            <lg n="49">
+               <head>49.</head>
+               <l>So our <hi>Lord</hi>'s way was with chaſt Beauty ſtrow'd,</l>
+               <l>His <hi>Ladie</hi>'s Graces, of magnetick force;</l>
+               <l>VVhich, when firſt view'd by our expecting Croud,</l>
+               <l>Gave notice, he would ſoon begin his Courſe.</l>
+            </lg>
+            <lg n="50">
+               <head>50.</head>
+               <l>Lo! how her Glorious Preſence chear'd the Fields,</l>
+               <l>And made the Journey ſeem exceeding ſweet;</l>
+               <l>The Pleaſures which ſhe brought, the way but yields,</l>
+               <l>And ev'rie thing kind welcome ſeem'd to Greet.</l>
+            </lg>
+            <lg n="51">
+               <head>51.</head>
+               <l>The Birds, the feather'd Muſes of each place,</l>
+               <l>To welcome her by ſweeteſt<note n="†" place="bottom">
+                     <hi>Stanza</hi> is a staff or number of Verſes, (nore or leſs, according to the diverſity of <hi>Stanzas</hi>) whoſe Lines or Rhimes ſtill return in the ſame order.</note> 
+                  <hi>Stanza's</hi> ſtrove,</l>
+               <l>
+                  <pb n="25" facs="tcp:99515:13"/>And weari'd not her moving Court to trace,</l>
+               <l>As if with ſome bright object faln in love.</l>
+            </lg>
+            <lg n="52">
+               <head>52.</head>
+               <l>VVind only fail'd, to ſet him off from ſhore,</l>
+               <l>His reſtleſs thoughts already home confin'd,</l>
+               <l>VVhich, as his Harbingers diſpatch'd before,</l>
+               <l>Foretold himſelf would not ſtay long behind.</l>
+            </lg>
+            <lg n="53">
+               <head>53.</head>
+               <l>It took effect, the weather ſtraight grew fair,</l>
+               <l>A gentle Gale ſprung from its Earthly womb,</l>
+               <l>The Sun both guilt the Skie and warm'd the Air,</l>
+               <l>And all did club for to diſpatch him home.</l>
+            </lg>
+            <lg n="54">
+               <head>54.</head>
+               <l>The Sea-leagues ſeem'd to be abridg'd in walks,</l>
+               <l>And all the <hi>Seaſons</hi> to be chang'd to <hi>May;</hi>
+               </l>
+               <l>VVhile his<note n="†" place="bottom">— vario<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> viam ſermone levabat. <hi>Virg. Aeneld. 8.</hi>
+                  </note> enrich'd and time-</l>
+               <l>beguiling talk,</l>
+               <l>Then the ſwift pinnace, did diſcuſs more way.</l>
+            </lg>
+            <lg n="55">
+               <head>55.</head>
+               <l>Firſt, at the<note n="†" place="bottom">'Tis ſaid to be flitting; becauſe the priviledge of a Staple-port is ſometimes re<g ref="char:EOLhyphen"/>moved thence to <hi>Blackneſs;</hi> this Port is like the unfixed Iſles in the <hi>Aegaean Sea:</hi> hence <hi>Virgil. — credas innare revulſas</hi> Cycladas.</note> flitting Port, the Land he preſt,</l>
+               <l>VVhere he his Votive Table ſatisfi'd;</l>
+               <l>Thus to do good his purpoſes were bleſt,</l>
+               <l>And did foreſtal a thankful VVind and Tide.</l>
+            </lg>
+            <lg n="56">
+               <pb n="26" facs="tcp:99515:14"/>
+               <head>56.</head>
+               <l>A<note n="‡" place="bottom">The Laird of <hi>Dechmond.</hi>
+                  </note> Friend near by, ſuch ſuch in abſence found,</l>
+               <l>To's welcome did the compliment firſt pay;</l>
+               <l>And while the ſundry chriſten'd Healths went round,</l>
+               <l>He, but with<note n="*" place="bottom">The E. his Health and Welcome home was only re<g ref="char:EOLhyphen"/>membred by him, through the whole day of his Arrival.</note> one, would terminate the Day.</l>
+            </lg>
+            <lg n="57">
+               <head>57.</head>
+               <l>The parted twain, in their Embraces ſweet,</l>
+               <l>Here match again, and diſtance reconcile;</l>
+               <l>So Rivers ſeem with cloſer Huggs to meet,</l>
+               <l>After Divorce made by ſome juſtling Iſle.<note place="bottom">My Lord and My Lady meet again in <hi>Dechmond</hi>'s Houſe.</note>
+               </l>
+            </lg>
+            <lg n="58">
+               <head>58.</head>
+               <l>And their Re-union quite expells the fear,</l>
+               <l>Their parting bred, and better hopes ſucceed;</l>
+               <l>So ill, a-part when<note n="†" place="bottom">Castor &amp; Pollux.</note> 
+                  <hi>Leda</hi>'s Twins appear,</l>
+               <l>Good luck, when join'd, to Sailers is decreed.</l>
+            </lg>
+            <lg n="59">
+               <head>59.</head>
+               <l>From thence, like Lovers, longing to improve</l>
+               <l>The mutual Pleaſures, home they quickly drive,</l>
+               <l>VVhere they unlock not former knots of <hi>Love,</hi>
+               </l>
+               <l>But th' holy flame, and nuptial ſweets revive.</l>
+            </lg>
+            <lg n="60">
+               <head>60.</head>
+               <l>At home? but yet he ſcarcely home hath win;</l>
+               <l>VVhen him, unreſted, bus'neſs calls away;</l>
+               <l>
+                  <pb n="27" facs="tcp:99515:14"/>Thus he muſt uſe his dwelling as an Inn,</l>
+               <l>Only to bait in, but not long to ſtay:</l>
+            </lg>
+            <lg n="61">
+               <head>61.</head>
+               <l>For at the <hi>Maiden-City</hi> he arriv'd,</l>
+               <l>Often refreſhed by his Golden Show'rs;</l>
+               <l>Nor yet, by abſence, of theſe Drops depriv'd,</l>
+               <l>Such Influence ſhe hath on her Paramours.</l>
+            </lg>
+            <lg n="62">
+               <head>62.</head>
+               <l>The Lawyers, for their Clients intereſt,</l>
+               <l>Their<note n="†" place="bottom">As the Chrmiſts extract Gold out of other Mettals, ſo their Counſel drawes the Silver and Gold out of their Clients Pockets.</note> Chymick Counſel laviſhly diſburſe,</l>
+               <l>The Merchants wooe him too to take their Teſt,</l>
+               <l>And both agree to milk and ſhare his Purſe.</l>
+            </lg>
+            <lg n="63">
+               <head>63.</head>
+               <l>
+                  <hi>A Welcome Home</hi> each pay, a gainful Debt,</l>
+               <l>Knowing on whom to work, and how to move,</l>
+               <l>His gen'rous Soul will not let him forget,</l>
+               <l>Each to requite with Pledges of his <hi>Love.</hi>
+               </l>
+            </lg>
+            <lg n="64">
+               <head>64.</head>
+               <l>Thus, nobly their allegiance he repay'd;</l>
+               <l>Him none for kindneſs, nor for Debt can crave:</l>
+               <l>And while we long for's coming hither ſtay'd,</l>
+               <l>Of the unwilling <hi>Citie</hi> he took Leave.</l>
+            </lg>
+            <lg n="65">
+               <head>65.</head>
+               <l>The diſtance, 'twixt his Palace and the Town,</l>
+               <l>Was ſwallow'd in the compend of a thought;</l>
+               <l>
+                  <pb n="28" facs="tcp:99515:15"/>He, by warm puffs of ſpeedie triumph blown,</l>
+               <l>Hither, without Geometrie, was brought.</l>
+            </lg>
+            <lg n="66">
+               <head>66.</head>
+               <l>The ten-years-wandring<note n="*" place="bottom">
+                     <hi>Ulyſſes,</hi> who, after the Siege of <hi>Troy,</hi> laſting ten years, ſtrayed other ten on the Sea, before be came home to his Wife, <hi>Penelope.</hi>
+                  </note> Greek, upon the main,</l>
+               <l>Arriv'd, was not more welcome to his Spouſe,</l>
+               <l>Then was our hon'red Maſter come again,</l>
+               <l>Untoh is people, and his lonelie Houſe.</l>
+            </lg>
+            <lg n="67">
+               <head>67.</head>
+               <l>His Palace ſeem'd, the<note n="*" place="bottom">A glade and honourable way of Reception, for when the Roman Emperours went in Triumph, as the Proceſſion advanced, the doors were all opened.</note> Doors and Windows ope,</l>
+               <l>With<note n="†" place="bottom">By a metaphor, allading to humane Laughter; hence <hi>Ovid. — riſu laxare labella.</hi>
+                  </note>
+               </l>
+               <l>laughing front, its Landlord to receive;</l>
+               <l>Thus to the Builder's praiſes they gave ſcope,</l>
+               <l>And ſeem'd his ſtay, and overſight to crave.</l>
+            </lg>
+            <lg n="68">
+               <head>68.</head>
+               <l>The people proud of their reſtored Lord,</l>
+               <l>Soon by diffuſive joy were overcome;</l>
+               <l>And at his Entry powr'd out of their hoard,</l>
+               <l>A ſhow'r of bleſſings to his. <hi>Welcome home.</hi>
+               </l>
+            </lg>
+            <lg n="69">
+               <head>69.</head>
+               <l>The Mothers frame the Children underſtand,</l>
+               <l>And ſhevv ſuch joy as vvith their age can ſuite,</l>
+               <l>And vvhile the elder run to Kiſs his Hand,</l>
+               <l>With ſilent Eyes the younger him ſalute.</l>
+            </lg>
+            <lg n="70">
+               <pb n="29" facs="tcp:99515:15"/>
+               <head>70.</head>
+               <l>Lo as he paſs'd each Heart nevv vigour took,</l>
+               <l>And ſtraight forgot that they erſtvvhile did mourn:</l>
+               <l>Ev'n ſo the Flovvr's, fred from their Priſon, look,</l>
+               <l>When the nevv <hi>Sun</hi> to <hi>Aries</hi> doth return.</l>
+            </lg>
+            <lg n="71">
+               <head>71.</head>
+               <l>All vvhile the Flagg of Duty is diſplay'd,</l>
+               <l>Their Perſons, Povv'r, and Wiſhes under't bring,</l>
+               <l>And while the Tribute of their Lips is paid,</l>
+               <l>
+                  <note n="†" place="bottom">
+                     <hi>From</hi> Virgil. —ſtudiiſque faventum conſonat omne nemus.—colles clamore reſultant Aeneld. 5.</note>Th' adjacent Hills with his loud Praiſes ring.</l>
+            </lg>
+            <lg n="72">
+               <head>72.</head>
+               <l>So to a new Play, by the<note n="†" place="bottom">
+                     <hi>Dryden Eſq.</hi> The Poet Laureate in <hi>England.</hi>
+                  </note> Laureat ſpun,</l>
+               <l>Acted on a new Theater, or Stage;</l>
+               <l>Many, led by an am'rous humour run.</l>
+               <l>And with their Plaudits, the whole Club engage.</l>
+            </lg>
+            <lg n="73">
+               <head>73.</head>
+               <l>
+                  <note n="*" place="bottom">To his return, &amp;c. <hi>(1) Falkirk</hi> promiſing themſelves the victory over Fate, and an iſsue from their troubles, through his return, will gladly commemorate the ſame, as the <hi>Thebans</hi> did their Victory, obtained at <hi>Leuctra</hi> by <hi>Epomi<g ref="char:EOLhyphen"/>nondas.</hi>
+                  </note>To his return, <hi>Falkirk</hi> will take delight</l>
+               <l>To found an <hi>Holy day,</hi> and feaſt in State;</l>
+               <l>So the brave <hi>Thebans</hi> from their ſignal fight</l>
+               <l>Their yearlie Ceremonies us'd to date.</l>
+            </lg>
+            <lg n="74">
+               <pb n="30" facs="tcp:99515:16"/>
+               <head>74.</head>
+               <l>The <hi>Graces</hi> now on the aſcendent are,</l>
+               <l>The<note n="†" place="bottom">
+                     <hi>From</hi> Virgil. Jam redit &amp; Virgo, redeunt Saturnia regna.</note> 
+                  <hi>Virgin,</hi> and old</l>
+               <l>
+                  <hi>Saturne</hi> come again;</l>
+               <l>
+                  <hi>Warrs</hi> Gates are ſhut, and they ſuch Fortune ſhare,</l>
+               <l>As <hi>Rome</hi> did under its firſt Founders Reign.</l>
+            </lg>
+            <lg n="75">
+               <head>75.</head>
+               <l>
+                  <note n="‡" place="bottom">
+                     <hi>From</hi> Virgil.— imperio<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> iterum paremus ovantes. Aeneid. 4.</note>Again they gladly to his</l>
+               <l>Reign ſubmit,</l>
+               <l>The Powr's obeying from the <hi>Sacred</hi> got;</l>
+               <l>Whom, if, by right, he had not wedded it,</l>
+               <l>They would call hither to preſide, by Vote.</l>
+            </lg>
+            <lg n="76">
+               <head>76.</head>
+               <l>And now their <hi>Well</hi> with a full Pipe abounds,</l>
+               <l>And doth its Way by Tides of Joy extend;</l>
+               <l>The meaſur'd falls of whoſe glad Streames will ſound</l>
+               <l>The Donour's <hi>Welcome home,</hi> world without end.</l>
+            </lg>
+            <lg n="77">
+               <head>77.</head>
+               <l>The Fabrick of this Monument of Fame,</l>
+               <l>At ſtately height arrives, by fair degrees;</l>
+               <l>And each, by higher Notes, as't were Proclaim</l>
+               <l>The Founder's praiſe, and hold ſpectatours eyes.</l>
+            </lg>
+            <lg n="78">
+               <head>78.</head>
+               <l>The Shire with circling mirth receives its<note n="†" place="bottom">In the Saxon language 'tis the Governour of a Mannour, or Lordſhip; hence <hi>Sheriff,</hi> is the <hi>Reev</hi> of a <hi>Shire</hi> the Guardian of a Countie.</note> 
+                  <hi>Reeve</hi>
+               </l>
+               <l>
+                  <hi>Sheriff,</hi> on juſt and hon'rarie account:</l>
+               <l>
+                  <pb n="31" facs="tcp:99515:16"/>Whoſe Chief and Loyal Town its grief reprieves,</l>
+               <l>Turning the <hi>Dol'rous,</hi> to a <hi>Joyful Mount.</hi>
+                  <note n="*" place="bottom">
+                     <hi>Sterling</hi> was formerly called in the Latine, <hi>Mons Doloroſus.</hi>
+                  </note>
+               </l>
+            </lg>
+            <lg n="79">
+               <head>79.</head>
+               <l>Their former ſtate, his Preſence doth reduce,</l>
+               <l>And raiſe their Pleaſures from the fatal Urn;</l>
+               <l>His looks doe Soul in ev'rie thing infuſe,</l>
+               <l>
+                  <note n="†" place="bottom">
+                     <hi>From</hi> Horace — Et neglecta redire virtus Audet — Epod. ult.</note>And <hi>Vertue</hi> ſcorn'd</l>
+               <l>dares, with its Lord, return.</l>
+            </lg>
+            <lg n="80">
+               <head>80.</head>
+               <l>
+                  <hi>Religion,</hi> which of <hi>Faith</hi> and <hi>Life</hi>'s compos'd,</l>
+               <l>Grew freſh again, and a new courage took,</l>
+               <l>Within the <hi>Kirk</hi> the Pariſh is inclos'd,</l>
+               <l>And his Devotion is the <hi>Laicks</hi> Book.</l>
+            </lg>
+            <lg n="81">
+               <head>81.</head>
+               <l>His Zeal unto the <hi>Church</hi> is well diffus'd,</l>
+               <l>Flowing through all its Paſtors, <hi>Levi</hi>'s race;</l>
+               <l>By him his own is<note n="†" place="bottom">1 <hi>Theſſal,</hi> 5.12, 13.</note> honourablie us'd,</l>
+               <l>Striving to found his Patronage on <hi>Grace.</hi>
+               </l>
+            </lg>
+            <lg n="82">
+               <head>82.</head>
+               <l>The luſtre of whoſe Grace the<note n="†" place="bottom">Tis called in <hi>Latine, Varlum facellum. (1)</hi> The party-coloured <hi>Chappeed</hi> or <hi>Church:</hi> tho' now called <hi>Fall-kirk.</hi>
+                  </note> 
+                  <hi>Chappel</hi> Paints,</l>
+               <l>And th' exerciſe of others Grace excites.</l>
+               <l>
+                  <pb n="32" facs="tcp:99515:17"/>So th' <hi>Engliſh</hi> Church is Beautifi'd by <hi>Saints,</hi>
+               </l>
+               <l>And to the Heavens rapps its Proſelites.</l>
+            </lg>
+            <lg n="83">
+               <head>83.</head>
+               <l>His <hi>Conſcience,</hi> laid unto the ſacred Line,</l>
+               <l>Is found exact, and worthie to get truſt;</l>
+               <l>His <hi>Honeſty</hi> his <hi>Honour</hi> doth Define,</l>
+               <l>And the exactneſs of the rul'd adjuſt.</l>
+            </lg>
+            <lg n="84">
+               <head>84.</head>
+               <l>As <hi>Theſeus</hi> did the Labyrinth deride,</l>
+               <l>By th' help and train of <hi>Ariadne's</hi> Threed;</l>
+               <l>So he, the Sacred Rule being ſtill his guide,</l>
+               <l>From the dark Mazes of the times is freed.<note n="†" place="bottom">
+                     <hi>See</hi> Ovid Metamorph. lib. <hi>8.</hi>
+                  </note>
+               </l>
+            </lg>
+            <lg n="85">
+               <head>85.</head>
+               <l>
+                  <hi>Justice,</hi> obſerving him, on us did throvv</l>
+               <l>At once both Eyes, diſpenſing looks by Rules;</l>
+               <l>Thus ſhe, vvho lookt before <hi>Regardant,</hi> novv</l>
+               <l>
+                  <note n="†" place="bottom">Is with our Lyon, <hi>&amp;c. (1)</hi> As the red Lion ſitting upon the top of the well, which the E. erected in <hi>Falkirk,</hi> ſupporting his Arms, in that poſture ſeems to look ſtraight; So Justice now doth not encline to one ſide nor other with her Eyes.</note>Is, vvith our <hi>Lyon, Sejant,</hi> full-fac'd gules.</l>
+            </lg>
+            <lg n="86">
+               <head>86.</head>
+               <l>As his true <hi>Honeſty,</hi> meant by the<note n="*" place="bottom">'Tis <hi>Sable;</hi> which Heraulds make to denote <hi>honeſty</hi> and <hi>prudence.</hi>
+                  </note> 
+                  <hi>Shield,</hi>
+               </l>
+               <l>Is firmly propt by the proud <hi>Lyon</hi>'s Pavv:</l>
+               <l>
+                  <note n="†" place="bottom">So may <hi>&amp;c.</hi> Thus <hi>Rome</hi> and <hi>Lacedaemon</hi> flourished moſt under <hi>Numa Pompilius,</hi> and <hi>Lycurgus,</hi> famous Law-givers.</note>So may our <hi>Town</hi> be ſafe, vvhile 'tis upheld</l>
+               <l>By this great <hi>Atlas</hi> of the <hi>Civil Law.</hi>
+               </l>
+            </lg>
+            <lg n="87">
+               <pb n="33" facs="tcp:99515:17"/>
+               <head>87.</head>
+               <l>When doubtful Caſes in the Law occur,</l>
+               <l>The practicks of his Life we need but ſcan;</l>
+               <l>Scarce one foul Act that Volume ſeems to blur,</l>
+               <l>
+                  <note n="*" place="bottom">But each Page <hi>(1)</hi> Univerſal juſtice; when we give to God the things that are Gods; to <hi>Caeſar</hi> the things that are <hi>Caeſars.</hi>
+                  </note>But each page gives the due to God and Man.</l>
+            </lg>
+            <lg n="88">
+               <head>88.</head>
+               <l>Nor Rich nor Poor, through preference, are heard,</l>
+               <l>Nor the firſt ſpeaker, can bribe his applauſe;</l>
+               <l>Like <hi>Alexander,</hi> th' other Ear unbarr'd,</l>
+               <l>Is always free reſerv'd unto the Cauſe.<note n="*" place="bottom">
+                     <hi>Alexander Magnus</hi> in judiclis &amp; cauſis litigantium alteram aurem rel inte<g ref="char:EOLhyphen"/>gram ſervat. <hi>Plut.</hi>
+                  </note>
+               </l>
+            </lg>
+            <lg n="89">
+               <head>89.</head>
+               <l>
+                  <note n="†" place="bottom">As a good Poet, <hi>&amp;c.</hi> 'tis the Apophthegme of Themiſtocles to <hi>Slmonides. Plut.</hi>
+                  </note>As a good</l>
+               <l>Poet doth not 'gainſt meaſures ſing,</l>
+               <l>But hath to Laws of Art a due reſpect;</l>
+               <l>Ev'n ſo his Acts in equal ballance hing,</l>
+               <l>And of ſtrict <hi>Juſtice</hi> make him<note n="*" place="bottom">Juſtitiae Architectus. <hi>from</hi> Pindar.</note> 
+                  <hi>Architect.</hi>
+               </l>
+            </lg>
+            <lg n="90">
+               <head>90.</head>
+               <l>Who would obedience to his Laws refuſe?</l>
+               <l>When the extreams are ſo well interlac'd,</l>
+               <l>Which would be, if<note n="†" place="bottom">Rogation of the Laws among the <hi>Romans</hi> was thus; The Magiſtrates having made and publiſhed a Law, conveened the people in the field of <hi>Mars,</hi> and aſ<g ref="char:EOLhyphen"/>ked them whether or not they would have that Law Eſtabliſhed, and accor<g ref="char:EOLhyphen"/>ding to their Suffrages, 'twas either abrogated, or approven and confirm'd. <hi>v. Antiq. Rom. leg. Rog.</hi>
+                  </note> 
+                  <hi>Rogation</hi> were in uſe,</l>
+               <l>By all the people's ſuffrages embrac'd.</l>
+            </lg>
+            <lg n="91">
+               <pb n="34" facs="tcp:99515:18"/>
+               <head>91.</head>
+               <l>His Debtors to indulge he's eas'lie brib'd,</l>
+               <l>Yet moſt preciſely purgeth his own Debt,</l>
+               <l>His life in<note n="†" place="bottom">See <hi>Olympius Nemeſianus Ecl. 1.</hi> His deſcription of juſt <hi>Melibaeus.</hi>
+                  </note>
+               </l>
+               <l>
+                  <hi>Melibaeus</hi> is deſcrib'd,</l>
+               <l>To calm the Countrie, and Land-marks to ſet.</l>
+            </lg>
+            <lg n="92">
+               <head>92.</head>
+               <l>The man, by him to ſit in Judgement call'd,</l>
+               <l>Muſt <hi>Juſtice</hi> weigh with an impartial hand,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <hi>Plut:</hi> in his Apophthegms of Kings, <hi>&amp;c.</hi>
+                  </note>So thoſe, by the <hi>Aegyptian Kings</hi> inſtall'd,</l>
+               <l>Were ti'd to Law, tho' th' King ſhould countermand.</l>
+            </lg>
+            <lg n="93">
+               <head>93.</head>
+               <l>
+                  <note n="†" place="bottom">
+                     <hi>The worthy</hi> &amp;c. Romanorum imperium ad viros bonos, vel exteros ſaepe delatum, nam ubi fores, &amp;c. <hi>Natal Com.</hi> lib. 7.</note>The worthie ſtill commence his ſubſtitute,</l>
+               <l>And ſuch, tho' ſtrangers, here give only price;</l>
+               <l>Whereas that <hi>Citie</hi>'s Gates 'gainſt <hi>Vertue</hi> ſhut,</l>
+               <l>Are neceſſarly open unto <hi>Vice.</hi>
+               </l>
+            </lg>
+            <lg n="94">
+               <head>94.</head>
+               <l>
+                  <hi>Friendſhip,</hi> which, with the<note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>; As between the Head and the Members, ſo there is a near con<g ref="char:EOLhyphen"/>junction, and Sacred Tie betwixt Friends; Hence <hi>Horace, Animae dimi<g ref="char:EOLhyphen"/>dium meae:</hi> Engliſhed, my better half.</note> Head, our</l>
+               <l>bounds had fled,</l>
+               <l>Now by a cloſer Union is begun,</l>
+               <l>Thus She doth his uniting Preſence wed,</l>
+               <l>And wooe him as the Marigold the Sun.</l>
+            </lg>
+            <lg n="95">
+               <pb n="35" facs="tcp:99515:18"/>
+               <head>95.</head>
+               <l>His Friendſhip knows no treach'rie, nor by path,</l>
+               <l>Nor can the knot be eaſilie untwin'd,</l>
+               <l>The pious relicts of the<note n="†" place="bottom">
+                     <hi>Attica fides,</hi> 'tis a proverb, from the City of <hi>Athens,</hi> famous for their un<g ref="char:EOLhyphen"/>feign'd affection to their Friends; Hence 'tis ſaid, that at <hi>Athens</hi> there was a Temple built to the Goddeſs of <hi>Faith, Plut.</hi>
+                  </note> 
+                  <hi>Attick</hi> Faith,</l>
+               <l>Are on the Table of his Heart enſhrin'd.</l>
+            </lg>
+            <lg n="96">
+               <head>96.</head>
+               <l>His <hi>Friendſhip,</hi> the<note n="†" place="bottom">Vertue, pleaſure, profit.</note> three requiſits unloades,</l>
+               <l>Which he, deep-fraughted, doth to's Friends import,</l>
+               <l>
+                  <note n="*" place="bottom">From <hi>Lucan-dignare tuos aperire penates. ad Piſonem;</hi> That is, he bountifully opens his ſtore, or store-houſe to his Friends, hence <hi>Cic,</hi> ſayes, <hi>rem famillarem aperit beignitas 2. Offic.</hi>
+                  </note>To whom he daigns to ſhew's familiar <hi>Gods,</hi>
+               </l>
+               <l>And give ſufficient ſhare of ev'rie ſort.</l>
+            </lg>
+            <lg n="97">
+               <head>97.</head>
+               <l>He chuſeth Friends by worth, and not by weight,</l>
+               <l>The honeſt, tho' but poor, enhance his Voice,</l>
+               <l>And thoſe who fit his humor, are upright;</l>
+               <l>Such ſympathie is 'twixt his Friends and choice.</l>
+            </lg>
+            <lg n="98">
+               <head>98.</head>
+               <l>Altho' his Genius<note n="†" place="bottom">Homo naturâ eſt appetens ſocij. <hi>Cic.</hi> in <hi>Lael.</hi>
+                  </note> ſociable is,</l>
+               <l>Yet likes not Leagues with many to contract;</l>
+               <l>For ſcatt'red <hi>Love</hi> becomes too ſoon remiſs,</l>
+               <l>And many Friends too many cares exact.</l>
+            </lg>
+            <lg n="99">
+               <pb n="36" facs="tcp:99515:19"/>
+               <head>99.</head>
+               <l>The fewer Branches that the ſtock foments,</l>
+               <l>The <hi>Bodie's</hi> ſap is not ſo ſoon decay'd;</l>
+               <l>And a great <hi>River</hi> deeper water vents,</l>
+               <l>Where Streams through fewer Channels are convey'd.</l>
+            </lg>
+            <lg n="100">
+               <head>100.</head>
+               <l>
+                  <note n="†" place="bottom">Ne cuivis Dexteram injeceris. Adag. Pythag.</note>To all the Right-hand 'tis unſafe to reach,</l>
+               <l>Or any, raſhly, our near Friend to make:</l>
+               <l>
+                  <note n="*" place="bottom">In Philoſophie 'tis call'd <hi>materia prima.</hi> defined, an incompleat ſubſtance variouſly determinated by the different forms.</note>So the firſt matter, as the Phyſicks teach,</l>
+               <l>Is any form made capable to take.</l>
+            </lg>
+            <lg n="101">
+               <head>101.</head>
+               <l>Their Room all blanch, yet without <hi>Charter</hi> hold,</l>
+               <l>
+                  <note n="‡" place="bottom">Novos parans amicos ne obliviſcere veterum. Adag. Hermol. Barb.</note>Nor by the new, the old are juſtled</l>
+               <l>out;</l>
+               <l>And theſe, in the<note n="*" place="bottom">In the Regiſter of Friendſhip there were certain Claſſes, and theſe of the firſt Table and admiſſion, were preferr'd to theſe of the ſecond Table and admiſſion. <hi>vid. Sen. de benef. lib.</hi> 6. <hi>cap.</hi> 33.</note> firſt Table once enroll'd,</l>
+               <l>Stand faſt, tho' <hi>Fortune</hi>'s wheel ſhould turn about.</l>
+            </lg>
+            <lg n="102">
+               <head>102.</head>
+               <l>His Friendſhip with their Fortune won't expire,</l>
+               <l>
+                  <note n="†" place="bottom">
+                     <hi>From</hi> Ovid. Turpe laborantem deſeruiſse ratem. lib. 2. de Ponto,</note>The lab'ring Ship abhorring to</l>
+               <l>forſake:</l>
+               <l>
+                  <note n="*" place="bottom">— Dum medicinam vulnera poſcunt, is Iocus officio. <hi>Sil.</hi>
+                  </note>And when their wounds due medicine</l>
+               <l>require,</l>
+               <l>
+                  <hi>Duty</hi> and <hi>Pitie</hi> place together take.</l>
+            </lg>
+            <lg n="103">
+               <pb n="37" facs="tcp:99515:19"/>
+               <head>103.</head>
+               <l>Theſe timely and diſcreetly he reproves,</l>
+               <l>Not fearing, for reproof, his Friends to looſe;</l>
+               <l>
+                  <note n="*" place="bottom">Morbi interdum amarulentis potionibus potius ſanantur, quam ſi dulciora adhi<g ref="char:EOLhyphen"/>beas. <hi>Pythag.</hi>
+                  </note>So</l>
+               <l>ſometimes to the Patient, whom he loves,</l>
+               <l>Th' expert Phyſician gives a tarter Doſe.</l>
+            </lg>
+            <lg n="104">
+               <head>104.</head>
+               <l>His favours, ſecretly, he makes them taſte,</l>
+               <l>Which are more welcome, when they thus ſurprize;</l>
+               <l>So that<note n="*" place="bottom">Arceſilaus.</note> 
+                  <hi>Philoſopher's</hi> conveying caſt,</l>
+               <l>Seem'd more enam'ring in the Painter's Eyes.<note n="†" place="bottom">Apelles. <hi>See</hi> Plat. Mor.</note>
+               </l>
+            </lg>
+            <lg n="105">
+               <head>105.</head>
+               <l>He won't cement with theſe who palliat Truth,</l>
+               <l>And<note n="†" place="bottom">Ut monere &amp; moneri eſt verae amicitiae, ſic &amp;c. <hi>Cic.</hi> in <hi>Lael. From</hi> Homer. Iliad. <hi>1.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> mutual admonition do repell;</l>
+               <l>* He, whoſe mind is bely'd by's fawning mouth,</l>
+               <l>Is unto him as odious as is Hell.</l>
+            </lg>
+            <lg n="106">
+               <head>106.</head>
+               <l>
+                  <note n="†" place="bottom">
+                     <hi>From</hi> Terence. Poſtremo imperavi egomit mihi omnia aſſentari.</note>Theſe, who to what he ſpeaks,</l>
+               <l>ſtrain their aſſent,</l>
+               <l>And to his humour can their own adapt,</l>
+               <l>The ſubtile Fowler fitly repreſent,</l>
+               <l>When by his mimick voice the Bird's entrapt.</l>
+            </lg>
+            <lg n="107">
+               <pb n="38" facs="tcp:99515:20"/>
+               <head>107</head>
+               <l>By honi'd words he'll not be prey'd upon,</l>
+               <l>When under ſuch the lurking<note n="*" place="bottom">Habet enim ſuum venenum blanda oratio. <hi>Sen.</hi>
+                  </note> venome ſtayes;</l>
+               <l>
+                  <note n="†" place="bottom">Bonum enim eſt laudari, ſed praestantius eſt eſse laudabilem. <hi>idem.</hi>
+                  </note>And tho' ſmooth-tongu'd</l>
+               <l>applauſe hath Honour won</l>
+               <l>Yet better 'tis to claim deſerved <hi>Praiſe.</hi>
+               </l>
+            </lg>
+            <lg n="108">
+               <head>108.</head>
+               <l>
+                  <note n="*" place="bottom">Temperantia cernitur in praetermittendis voluptatibus. <hi>Cic. 5.</hi> de <hi>Fin. 67.</hi>
+                  </note>Now <hi>Temperance</hi>
+               </l>
+               <l>began their Hearts to wean</l>
+               <l>From tickling pleaſures which they had purſu'd;</l>
+               <l>
+                  <note n="†" place="bottom">A metaphor taken from the Sun, who not only ruleth the day, and keeps a meaſure himſelf, but likewiſe moderates the courſe of the Planets. Hence <hi>Cic.</hi> 5. <hi>Tuſcul.</hi> 42. <hi>Temperantia eſt mo deratrix omnium commotionum.</hi>
+                  </note>As ſoon's he rul'd the day, the Golden mean</l>
+               <l>Was in the motions of their minds renew'd.</l>
+            </lg>
+            <lg n="109">
+               <head>109.</head>
+               <l>His <hi>Temperance</hi> hath influence upon us,</l>
+               <l>Perſwaſive by its modeſt Dialect:</l>
+               <l>When he ſuperfluous coſt abandons thus,</l>
+               <l>We, needleſs exceſs, muſt, for ſhame, correct.</l>
+            </lg>
+            <lg n="110">
+               <head>110.</head>
+               <l>
+                  <hi>Frugality,</hi> his humour thus doth fit,</l>
+               <l>Being thereto from his budding youth inur'd;</l>
+               <l>
+                  <note n="†" place="bottom">
+                     <hi>From</hi> Horace od <hi>2.</hi> lib, <hi>3.</hi> Angustam, amici, pauperiem pati, Robuſtus acri militia puer Condiſcat.</note>So by the youth, in warrs taught well t' acquit</l>
+               <l>His age, <hi>Want</hi> will be patiently endur'd.</l>
+            </lg>
+            <lg n="111">
+               <pb n="39" facs="tcp:99515:20"/>
+               <head>111.</head>
+               <l>Good Education is a kind of ſpell,</l>
+               <l>Whereby the Child, in's ſpring, is lull'd aſleep,</l>
+               <l>Untill his pliant mind be ſeaſon'd well,</l>
+               <l>
+                  <note n="†" place="bottom">Quo ſemel eſt imbuta recens ſervabit odorem Testa diu. Hor. Epist. <hi>2.</hi> lib. <hi>1.</hi>
+                  </note>Which will</l>
+               <l>the ſcent, through all its ſeaſons, keep.</l>
+            </lg>
+            <lg n="112">
+               <head>112.</head>
+               <l>
+                  <note n="*" place="bottom">Liberalis dabit propter honestatem, &amp; rectè, quibus oportet &amp; quando oportet. <hi>Ariſt.</hi> lib. <hi>4. Eth.</hi>
+                  </note>Yet, when his Honour at the ſtake is laid,</l>
+               <l>He can in lib'ral offrings ev'n tranſgreſs;</l>
+               <l>Deſerving works, by him are doubly paid,</l>
+               <l>His Bounty rather tending to exceſs.</l>
+            </lg>
+            <lg n="113">
+               <head>113.</head>
+               <l>
+                  <note n="†" place="bottom">Si deos imitaris, da etiam ingratis, nam &amp; ſceleratis Sol oritur, &amp;c. <hi>Sen.</hi> de benef.</note>And while he ſtrives to imitate the Gods,</l>
+               <l>The man ingrate of his Benev'lence ſhares;</l>
+               <l>So, with ill men the Sun lives not at odds,</l>
+               <l>But to their roofes indiff'rently repaires.</l>
+            </lg>
+            <lg n="114">
+               <head>114.</head>
+               <l>He might, by <hi>Fortune,</hi> be to riot mov'd,</l>
+               <l>Yet huggs <hi>Sobriety</hi> the Friend of Health,</l>
+               <l>So Life may be prolong'd, Eſtate improv'd,</l>
+               <l>
+                  <note n="*" place="bottom">
+                     <hi>From</hi> Auſonius. Et miſceret opes pauperitm<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſimul lib. Epigram.</note>Mingling together <hi>Poverty</hi> and</l>
+               <l>
+                  <hi>Wealth.</hi>
+               </l>
+            </lg>
+            <lg n="115">
+               <pb n="40" facs="tcp:99515:21"/>
+               <head>115.</head>
+               <l>
+                  <note n="†" place="bottom">From <hi>Claud.</hi> l. <hi>1.</hi> Vivitur exiguo melius; — ſi quis cognoverit uti.</note>Litle ſufficeth</l>
+               <l>
+                  <hi>Nature</hi> beſt, if ſuch</l>
+               <l>We knew aright to uſe, and not to waſte,</l>
+               <l>He thinks it meet,<note n="*" place="bottom">Minimum decet lubere, cui multum licet. <hi>Sen.</hi>
+                  </note> whoſe pow'r can compaſs much,</l>
+               <l>To be contented quietly with leaſt.</l>
+            </lg>
+            <lg n="116">
+               <head>116.</head>
+               <l>Our <hi>Loyalty,</hi> the Subject's nat'ral <hi>Teſt,</hi>
+               </l>
+               <l>His happy advent from its<note n="†" place="bottom">Vertue is apt to ſlumber, if it be not ſtirr'd up by exerciſe, Hence <hi>Virg. Aen.</hi> l. <hi>10. Nunc prece, nunc dictis virtutem accendit.</hi> See number. <hi>16.</hi>
+                  </note> ſlumber rous'd,</l>
+               <l>By his obedient mouth we are confeſt,</l>
+               <l>Altho' before, through want of tongue excus'd.</l>
+            </lg>
+            <lg n="117">
+               <head>117.</head>
+               <l>This ſeems t'ave been an an Heritage entail'd</l>
+               <l>Upon the<note n="*" place="bottom">
+                     <hi>Buchanan</hi> &amp; <hi>Burnets</hi> unjuſt Characters of this Family are to be imputed to their ſerving a Party.</note> 
+                  <hi>Fam'lie,</hi> ſtill to be improv'd;</l>
+               <l>Nay thro this breath, long from the ſtock exhal'd,</l>
+               <l>The<note n="†" place="bottom">
+                     <hi>(1)</hi> Branches of the Family; whereof <hi>Calander</hi> is the firſt.</note> arms will ſtill be</l>
+               <l>honour'd, and belov'd,</l>
+            </lg>
+            <lg n="118">
+               <head>118.</head>
+               <l>
+                  <hi>A Race ſo stamp'd with</hi> Loyalty <hi>and Wit,</hi>
+                  <note place="margin">Digreſ<g ref="char:EOLhyphen"/>ſion.</note>
+               </l>
+               <l>
+                  <hi>That it ſhould ever tend to the aſcent,</hi>
+               </l>
+               <l>
+                  <hi>Not only in the</hi>
+                  <note n="*" place="bottom">Several of the Lords of <hi>Linlithgow</hi> were Privy Counſellours.</note> 
+                  <hi>Senate, rais'd, to ſit,</hi>
+               </l>
+               <l>
+                  <hi>But to enhanſe the Reins of</hi>
+                  <note n="†" place="bottom">Sir <hi>Alexander Livingſtoun,</hi> thereafter Lord <hi>Livingſtoun,</hi> was made Gover<g ref="char:EOLhyphen"/>nour of <hi>Scotland</hi> in King <hi>James</hi> the Second<hi>'s</hi> minority.</note> Government.</l>
+            </lg>
+            <lg n="119">
+               <pb n="41" facs="tcp:99515:21"/>
+               <head>119.</head>
+               <l>
+                  <hi>What</hi>
+                  <note n="†" place="bottom">See the <hi>Edinburgh</hi> Edition (<hi>A.</hi> 1582.) of <hi>Buchanans</hi> Hiſtory, <hi>fol.</hi> 119.</note>
+               </l>
+               <l>
+                  <hi>Tongue, the Index of th' abounding Heart,</hi>
+               </l>
+               <l>
+                  <hi>Hath greater</hi> Love <hi>to their great Lord expreſt?</hi>
+               </l>
+               <l>
+                  <hi>I pray, whoſe</hi>
+                  <note n="†" place="bottom">
+                     <hi>James</hi> late Earl of <hi>Calander</hi> was portrayed with a Batton in his right hand, above which was this Superſcription, <hi>Haec dextera vindex, Principis &amp; patriae.</hi>
+                  </note> 
+                  <hi>hand was abler to aſſert</hi>
+               </l>
+               <l>
+                  <hi>His Prince and Countrey's mutual interest?</hi>
+               </l>
+            </lg>
+            <lg n="120">
+               <head>120.</head>
+               <l>
+                  <hi>With what a courage did</hi>
+                  <note n="†" place="bottom">
+                     <hi>James Livingſtoun</hi> Son to the Governour, See <hi>Leſlies</hi> Hiſtory, <hi>l.</hi> 8. <hi>pag.</hi> 289.</note> 
+                  <hi>he brave his fate,</hi>
+               </l>
+               <l>
+                  <hi>Who fell by too too powerful fees oreborn.</hi>
+               </l>
+               <l>
+                  <hi>And with his dying breath pronounc'd it great,</hi>
+               </l>
+               <l>
+                  <hi>Court grandeur and all earthly pomp to ſcorn.</hi>
+               </l>
+            </lg>
+            <lg n="121">
+               <head>121.</head>
+               <l>
+                  <hi>What Courtier, 'midſt viciſſitudes of State,</hi>
+               </l>
+               <l>
+                  <hi>Hath longer ſtood unhing'd, or tumbled down?</hi>
+               </l>
+               <l>
+                  <hi>As if true merit aim'd to conſecrate</hi>
+               </l>
+               <l>
+                  <hi>Brave</hi>
+                  <note n="†" place="bottom">
+                     <hi>George</hi> preſent Earl of <hi>Linlithgow,</hi> hath continued to be Colonel to the Kings Guard of Foot, ſince His Majeſtle's Reſtauration, and his laſt breath is likely (if deſert avail) to date his Exauctoration.</note> George, <hi>the ſureſt</hi> Atlas <hi>of the Crown.</hi>
+               </l>
+            </lg>
+            <lg n="122">
+               <head>122.</head>
+               <l>
+                  <note n="*" place="bottom">
+                     <hi>George</hi> preſent Lord <hi>Livingſtoun,</hi> is inclin'd to encourage the Name; where<g ref="char:EOLhyphen"/>of he is the noble Chief.</note>
+                  <hi>He who ſucceeds to lead the</hi> Fam'lie's <hi>van,</hi>
+               </l>
+               <l>
+                  <hi>Is like to'inherit too their laſting</hi> Fame;</l>
+               <l>
+                  <hi>If they the Nation of that Tribe began,</hi>
+               </l>
+               <l>
+                  <hi>He'll prove the chief promoter of the ſame.</hi>
+               </l>
+            </lg>
+            <lg n="123">
+               <pb n="42" facs="tcp:99515:22"/>
+               <head>123.</head>
+               <l>
+                  <hi>And lo a</hi>
+                  <note n="†" place="bottom">
+                     <hi>Alexander</hi> ſecond Son to the Earl of <hi>Linlithgow,</hi> lookt upon, by all men, as the moſt hopeful Gentleman in the Name.</note> 
+                  <hi>graffſprung from that verdant ſtemm,</hi>
+               </l>
+               <l>
+                  <hi>Early begins fair Bloſſoms to ſend forth,</hi>
+               </l>
+               <l>
+                  <hi>Making the luſtre of that ſparkling</hi> Gemm</l>
+               <l>
+                  <hi>To be beſt ſeen, through his own</hi> living worth.</l>
+            </lg>
+            <lg n="124">
+               <head>124.</head>
+               <l>None can him, for <hi>Diſloy'ltie</hi> to his Prince,</l>
+               <l>Without injuring innocence, impeach,</l>
+               <l>The Legends of his Faith and Life evince</l>
+               <l>The practice, of what Law and Goſpel teach.</l>
+            </lg>
+            <lg n="125">
+               <head>125.</head>
+               <l>For he, in th' old ſtock of<note n="†" place="bottom">See Act 1. and 11. Seſſ. 1. Parl. 1. Car. 2.</note> 
+                  <hi>Allegiance</hi> 'graft,</l>
+               <l>The right of the Supreme can ne'r explode,</l>
+               <l>By Faith, on whatſo'er pretext, he's taught</l>
+               <l>Not to reſiſt the <hi>Ordinance</hi> of <hi>God.</hi>
+               </l>
+            </lg>
+            <lg n="126">
+               <head>126.</head>
+               <l>In ſtate affairs his hands were not embrew'd,</l>
+               <l>And yet his <hi>Loy'ltie</hi> is no whit the leſs;</l>
+               <l>This in his private ſtation hath been ſhew'd</l>
+               <l>Not yet being call'd to publick buſineſs.</l>
+            </lg>
+            <lg n="127">
+               <head>127.</head>
+               <l>And he, whoſe temper jumps not with the time,</l>
+               <l>A more retired courſe of Life ſhould drive;</l>
+               <l>
+                  <pb n="43" facs="tcp:99515:22"/>Thus<note n="†" place="bottom">Tiberius. <hi>Hence</hi> Tac. Annal. 1. Alla Tiberio morum via.</note> he, who with the publick could not</l>
+               <l>chime,</l>
+               <l>Did not in men's eyes, like <hi>Auguſtus,</hi> live</l>
+            </lg>
+            <lg n="128">
+               <head>128.</head>
+               <l>If we the <hi>Court</hi> and <hi>Countrie</hi> would compare,</l>
+               <l>Reck'ning with that, the<note n="†" place="bottom">Stet, quicun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> volet, potens Aulae culmine lubrico &amp;c. <hi>Sen.</hi> in <hi>Thyeſte.</hi>
+                  </note> changes, cares, and ſtrife:</l>
+               <l>One, but half-witted, ſure would this preferr,</l>
+               <l>And damn the greatneſs of a <hi>Courtlie life.</hi>
+               </l>
+            </lg>
+            <lg n="129">
+               <head>129.</head>
+               <l>The Countrie life effectually promotes</l>
+               <l>True<note n="*" place="bottom">— Exeat aulâ, qui volet eſſe pius. <hi>Luc.</hi> lib. <hi>8.</hi>
+                  </note> 
+                  <hi>piety,</hi> and innocence abetts;</l>
+               <l>Unto ſublimer thoughts it us devotes,</l>
+               <l>And frees us from the Art of counterfeits.<note n="†" place="bottom">And frees us, &amp;c. For the Countrie ſimplicity requires not that policy which is ſtudied in Courts. Hence. <hi>Sen. Fraus ſublimi regnat in aulâ. in Hippol.</hi>
+                  </note>
+               </l>
+            </lg>
+            <lg n="130">
+               <head>130.</head>
+               <l>Here he enjoyes what wiſh can e're purſue,</l>
+               <l>Hugging comentment under's ſhadie grove;</l>
+               <l>The pow'rs, as'twere, allow him here to<note n="†" place="bottom">
+                     <hi>See</hi> Deuter. <hi>ch.</hi> 34. <hi>v.</hi> 1, 2, 3, 4.</note> view,</l>
+               <l>And to foretaſte the ſweet that are above.</l>
+            </lg>
+            <lg n="131">
+               <head>131.</head>
+               <l>Here is the ſhade of a well peopled wood,</l>
+               <l>Where Nature's choriſters have pleaſant ſhrowd,</l>
+               <l>
+                  <pb n="44" facs="tcp:99515:23"/>A Garden where the<note n="*" place="bottom">Hieradiant flores, <hi>Claud;</hi>
+                  </note> glitt'ring flow'rs do bud,</l>
+               <l>
+                  <note n="†" place="bottom">Aſpice labentes jucundo murmure rivos. <hi>Ovid.</hi>
+                  </note>And a Spring talking, muſically, loud.</l>
+            </lg>
+            <lg n="132">
+               <head>132.</head>
+               <l>Lo here are<note n="*" place="bottom">Quem florea vallis paverit, <hi>Petrar:</hi>
+                  </note> flowrie Walks, and<note n="†" place="bottom">Aſpice curvatos pomorum pondere ramos. <hi>Ovid.</hi>
+                  </note> laughing meads,</l>
+               <l>Theſe feed the body, and the eyes thir Feaſt;</l>
+               <l>With pond'rous Fruit, here each Tree hangs its head,</l>
+               <l>Able to tempt the eye, and pleaſe the taſte.</l>
+            </lg>
+            <lg n="133">
+               <head>133.</head>
+               <l>His <hi>Palace,</hi> bord'ring with the common Rode,</l>
+               <l>Seems, hoſpitably, for its gueſts to call;</l>
+               <l>And, by his pains, repaired alamode,</l>
+               <l>Outbraves the Shadow of the<note n="†" place="bottom">The Rampier built by the Emperour <hi>Severus,</hi> betwixt <hi>Abercorn</hi> and <hi>Dum<g ref="char:EOLhyphen"/>barton</hi> or <hi>Alcluich,</hi> to keep back the <hi>Scots</hi> and <hi>Picts</hi> from invading their new <hi>Province</hi> there: 'tis call'd otherwiſe <hi>Grahame's Dyke,</hi> either becauſe it was raz'd to the ground by one of that name; or becauſe <hi>Graems,</hi> in our old Language, and <hi>Severus</hi> in the Latine ſignifie the ſame thing. The Earl made this Dyke level with the ground, upon which his Palace is built; about <hi>200.</hi> and odd pates diſtant upon the ſouth ſide of the Wall.</note> 
+                  <hi>Roman</hi> wall.</l>
+            </lg>
+            <lg n="134">
+               <head>134.</head>
+               <l>The ancient <hi>Towre,</hi> which was by th' <hi>Engliſh</hi> ſtorm'd,</l>
+               <l>And by them ſuff'red an<note n="*" place="bottom">This fell out on the 15th. of <hi>July 1651.</hi> Sixty two perſons were kill'd in the Gariſon nobly reſiſting.</note> unbribed death;</l>
+               <l>Behov'd, by levelling, to be reform'd,</l>
+               <l>And to be purg'd from the Uſurper's<note n="†" place="bottom">It is reported in his life and death that he stunk horribly after he expired.</note> breath.</l>
+            </lg>
+            <lg n="135">
+               <pb n="45" facs="tcp:99515:23"/>
+               <head>135.</head>
+               <l>He means his Dwelling publicklie to ſhew,</l>
+               <l>Removing lets, which might obſtruct the eye;</l>
+               <l>So<note n="†" place="bottom">Julius Druſus <hi>a Senator of</hi> Rome, <hi>See</hi> Plut. Moral.</note> 
+                  <hi>Druſus</hi> Houſe was built in open view,</l>
+               <l>That all the City might his life ſurvey.</l>
+            </lg>
+            <lg n="136">
+               <head>136.</head>
+               <l>Yet, Hermit-lik, he courts not Solitude,</l>
+               <l>† Tho never leſs'alone, but when he's ſo;</l>
+               <l>A civil life he leads for<note n="*" place="bottom">Non ſolum nobis natiſumus, ortuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> noſtri partem patria vendicat, partem pa<g ref="char:EOLhyphen"/>rentes, partem amici. <hi>Plato.</hi>
+                  </note> for others good,</l>
+               <l>Which is the beſt and nobleſt of the two.</l>
+            </lg>
+            <lg n="137">
+               <head>137.</head>
+               <l>Lo <hi>Charity</hi> of its wounds freely cur'd,</l>
+               <l>Retrives the Revenues it had before,</l>
+               <l>Others are by his <hi>Charity</hi> allur'd,</l>
+               <l>
+                  <note n="†" place="bottom">Cor viduae conſolatus ſum, pater etiam pauperum. <hi>Job 29.31.</hi> See Number: <hi>14:</hi>
+                  </note>While he the widow cheares, and feeds the poor.</l>
+            </lg>
+            <lg n="138">
+               <head>138.</head>
+               <l>Within his breaſt the naked Graces meet,</l>
+               <l>And, chriſtianly, their Offices exerce;</l>
+               <l>
+                  <note n="†" place="bottom">The Graces Temple was built in the midſt of the Streets, that all paſſers by might be put in mind of Benevolence.</note>There is their Temple reer'd, as in the ſtreet, Ne'r meaning to cut off the poor, their<note n="‡" place="bottom">Terces, as to wives, are taken away, by Act <hi>10:</hi> Par: <hi>3:</hi> K: Ch: <hi>2:</hi>
+                  </note> terce.</l>
+            </lg>
+            <lg n="139">
+               <pb n="46" facs="tcp:99515:24"/>
+               <head>139.</head>
+               <l>If <hi>Charity</hi> its traffick can enrich,</l>
+               <l>Then he might ſoon a wealthy Merchant grow,</l>
+               <l>
+                  <note n="†" place="bottom">
+                     <hi>From</hi> Claud: Nil negat, &amp; ſeſe vel non poſcentibus offert.</note>For he refuſeth not an <hi>Alms,</hi> and which,</l>
+               <l>Often unask'd, he largely doth beſtow.</l>
+            </lg>
+            <lg n="140">
+               <head>140.</head>
+               <l>The needy, dayly entring at his Gates,</l>
+               <l>Return ſuppli'd with a moſt willing loan;</l>
+               <l>And leſt the<note n="†" place="bottom">
+                     <hi>(1)</hi> ſuch as are fit objects of Charity</note> wingleſs bee meet with hard fate,</l>
+               <l>He oft, with hony, feeds the<note n="*" place="bottom">
+                     <hi>(i.e.)</hi> theſe who ſeem to claim our pitie, but deſerve not. See <hi>Quarl. Enchir. cent: 2: ch: 2:</hi> and <hi>cent: 3: chap: 71:</hi>
+                  </note> yawning drone.</l>
+            </lg>
+            <lg n="141">
+               <head>141.</head>
+               <l>His wealth thus is for ends, by God deſign'd,</l>
+               <l>And not for worldly byaſs ends employ'd;</l>
+               <l>And tho' the payment here ſhould be declin'd,</l>
+               <l>Yet 'twill; with * int'reſt, after be enjoy'd.<note place="bottom">
+                     <hi>See</hi> Prov: 19: 17: <hi>and</hi> Mat: 19; 21:</note>
+               </l>
+            </lg>
+            <lg n="142">
+               <head>142.</head>
+               <l>The <hi>Muſes,</hi> in their <hi>Patron's</hi> preſence ſafe,</l>
+               <l>Recover their<note n="†" place="bottom">See notes upon <hi>Number: 17:</hi> Collation is a little Banquet, or Contribution.</note> collation, caſhier'd long;</l>
+               <l>Glad to have made their firſt Love's Epitaph,</l>
+               <l>And kindly tun'd the <hi>Reals</hi> nuptial ſong.<note n="*" place="bottom">
+                     <hi>Ens reale,</hi> in oppoſition to <hi>Ens ratlonis,</hi> their firſt Miſtriſs.</note>
+               </l>
+            </lg>
+            <lg n="143">
+               <head>143.</head>
+               <l>He ſtill refreſheth with the early dew,</l>
+               <l>Of his free favour, the ingenious Bards:</l>
+               <l>
+                  <pb n="47" facs="tcp:99515:24"/>
+                  <note n="*" place="bottom">Nihil ille Deos, nil carmina curat: <hi>Virgil:</hi> Eclog: <hi>8: de</hi> Daphnide.</note>
+                  <hi>Maro</hi>'s reproach to him will ne'r accrue,</l>
+               <l>While he the Gods, and Sacred <hi>Verſe</hi> regards.</l>
+            </lg>
+            <lg n="144">
+               <head>144.</head>
+               <l>To pay them honour he's no whit a ſham'd;</l>
+               <l>Nor thinks't 'diſparagement to nouriſh Art:</l>
+               <l>
+                  <note n="†" place="bottom">
+                     <hi>Moecenas</hi> was the proper name of a noble Roman, the favourite of <hi>Auguſtus,</hi> to whom he recommended <hi>Virgil</hi> and <hi>Horace;</hi> he was a ſpecial friend to all Poets, hence 'tis ſaid. <hi>De Poet. ſorte</hi>
+                     <q>Solns Mecaenas verus amicus erat.</q>
+                     <p>
+                        <hi>Virgil</hi> wrote his Georgicks in his honour, and dedicated them unto him, hence in the beginning of the laſt Book of the Georgicks, he ſayes — <hi>Hanc etlam Moecenas adſpice partem.</hi>
+                     </p>
+                     <p>Several Odes, <hi>Epodes &amp; Epiſtles</hi> of <hi>Horace</hi> bear the inſcription <hi>Ad Moecena<g ref="char:EOLhyphen"/>tem.</hi> From him all friends and Patrons to the <hi>Muſes</hi> are call'd <hi>Moecenaſes:</hi> though the name and occaſion thereof be grown much out of faſhion.</p>
+                  </note> 
+                  <hi>Mecaenas</hi> by Poſterity is fam'd,</l>
+               <l>Who did much favour to the Tribe impart.</l>
+            </lg>
+            <lg n="145">
+               <head>145.</head>
+               <l>The <hi>Nine,</hi> from<note n="*" place="bottom">Tis clear from <hi>Homer</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. in Hymno.</note> 
+                  <hi>Jove,</hi> their pedigree derive,</l>
+               <l>But their well-being much to this <hi>Hero</hi> owes;</l>
+               <l>'Tis juſt his<note n="†" place="bottom">Dignum laude virum, <hi>Muſa</hi> vetat mori. <hi>Hor.</hi> lib. 4. od: 8:</note> praiſes ſhould his fate ſurvive,</l>
+               <l>If ſuch advantage from the <hi>Muſes</hi> flows.</l>
+            </lg>
+            <lg n="146">
+               <head>146.</head>
+               <l>To count his <hi>Vertues</hi> o'r, and trace their tracks,</l>
+               <l>They'l take delight, enam'red with his <hi>Name;</hi>
+               </l>
+               <l>Nay they,<note n="†" place="bottom">
+                     <hi>From</hi> Virgil: Et dubitamus adhuc virtut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m extendere factis Aeneid: <hi>6:</hi>
+                  </note> if Glory can but match his Acts.</l>
+               <l>Will write them in the <hi>Calendar</hi> of fame.</l>
+            </lg>
+            <lg n="147">
+               <pb n="48" facs="tcp:99515:25"/>
+               <head>147.</head>
+               <l>VVhy ſhould a drop of his Renown be ſpilt,</l>
+               <l>VVhile by the <hi>Muſes,</hi> 't may be intercept,</l>
+               <l>Or, on ſuch Chappel as the<note n="*" place="bottom">
+                     <hi>Marcellus.</hi> who caus'd a Chappel be builded, bearing the name <hi>Virtutis &amp; Honorls Plut.</hi>
+                  </note> 
+                  <hi>Roman</hi> built,</l>
+               <l>'T may be engraven, and from falling kept.</l>
+            </lg>
+            <lg n="148">
+               <head>148.</head>
+               <l>Through his departure, <hi>Trade,</hi> ſhipwrack'd almoſt,</l>
+               <l>Diſcov'reth nigh a long expected Port;</l>
+               <l>Now <hi>Riches</hi> will be driven on our Coaſt,</l>
+               <l>And <hi>Commerce</hi> will chuſe hither to reſort.</l>
+            </lg>
+            <lg n="149">
+               <head>149.</head>
+               <l>The Town's dear purchas'd freedom he'l defend,</l>
+               <l>VVhich ſome had ta'en occaſion to invade;</l>
+               <l>Thus from the <hi>Duke,</hi> the Merchants noble friend,</l>
+               <l>Our Peers may be mov'd to encourage <hi>Trade.</hi>
+               </l>
+            </lg>
+            <lg n="150">
+               <head>150.</head>
+               <l>The old unjuſt<note n="*" place="bottom">That the Bairns of <hi>Falkirk</hi> die before they thrive.</note> reproach is now defac'd,</l>
+               <l>VVhile all the fruit of their Induſtrie taſte,</l>
+               <l>His frugal ſteps, now by his people trac'd,</l>
+               <l>Make't ſeem a paradox to looſe, or waſte.</l>
+            </lg>
+            <lg n="151">
+               <head>151.</head>
+               <l>But might the ‡ Scandal bear a new Record,</l>
+               <l>That, of Renown, 't might a new income bring,</l>
+               <l>
+                  <pb n="49" facs="tcp:99515:25"/>If ſo we prove more duteous to our <hi>Lord</hi>
+               </l>
+               <l>And, with our <hi>Lord,</hi> more Loyal to our <hi>King.</hi>
+                  <note n="†" place="bottom">
+                     <p>The foreſaid Scandal, <hi>That the Bairas</hi> &amp;c. it is here ſet down in Latine Verſe, as it was elſewhere deſcribed by the Author thus.
+<q>
+                           <l>
+                              <hi>Scillcet hic genitum, vetus eſt injurla, prolem</hi>
+                           </l>
+                           <l>
+                              <hi>Quamve facit rem, vel profidt, ante morl:</hi>
+                           </l>
+                           <l>
+                              <hi>Nempe quòd urbs Regl cives tulit uſ<expan>
+                                    <am>
+                                       <g ref="char:abque"/>
+                                    </am>
+                                    <ex>que</ex>
+                                 </expan> fideles,</hi>
+                           </l>
+                           <l>
+                              <hi>Qui malè-fidorum nè vel in ore vigent.</hi>
+                           </l>
+                        </q>
+                     </p>
+                     <p>
+                        <hi>Engliſhed.</hi> 
+                        <q>
+                           <l>Fame, feigning Children, here begotten, dy'd,</l>
+                           <l>E're they began to thrive, too long bely'd;</l>
+                           <l>'Cauſe this Ground ſtill a <hi>Loyal</hi> Crop did yield,</l>
+                           <l>Which thrives not, ſown in a diſloyal Field.</l>
+                        </q>
+                     </p>
+                  </note>
+               </l>
+            </lg>
+            <lg n="152">
+               <head>152.</head>
+               <l>O're them his Power, gently exercis'd,</l>
+               <l>With their conſent, hath him obedience won;</l>
+               <l>Tohim the <hi>People's</hi> hearts are ſacrific'd,</l>
+               <l>While he is pleas'd to make their caſe his own.</l>
+            </lg>
+            <lg n="153">
+               <head>153.</head>
+               <l>The Sun when near to make the brighteſt hour,</l>
+               <l>And reach the higheſt point, appears moſt ſlow;</l>
+               <l>So, he exalted both in Place, and Pow'r,</l>
+               <l>Becomes more moderate, and nobly low.</l>
+            </lg>
+            <lg n="154">
+               <head>154.</head>
+               <l>To purchaſe Rev'rence, he doth not affect</l>
+               <l>By coy and ſwelling lookes, and ſeem too high,</l>
+               <l>When he, who meets with ſuch ſquint ey'd neglect,</l>
+               <l>Into his life, too curiouſly, will pry.</l>
+            </lg>
+            <lg n="155">
+               <pb n="50" facs="tcp:99515:26"/>
+               <head>155.</head>
+               <l>Nor yet remark'd, on ſuppliants to have frown'd,</l>
+               <l>His<note n="†" place="bottom">Nihil est laudabilius, nihil magno &amp; praeclaro viro dignius placabilitate &amp; clementiâ. <hi>Cic.</hi> lib: <hi>1.</hi> Offic.</note> 
+                  <hi>Clemency</hi> being by ſuch Voice alarm'd,</l>
+               <l>So<note n="*" place="bottom">Plut.</note> 
+                  <hi>Caeſar's</hi> ears were by the zealous ſound</l>
+               <l>Of Pray'rs and Supplications ſtrangly charm'd.</l>
+            </lg>
+            <lg n="156">
+               <head>156.</head>
+               <l>Strange! how a kind <hi>Superiour's</hi> look or word</l>
+               <l>Charmes the warm heart, and makes th' affection ſpring;</l>
+               <l>So<note n="†" place="bottom">Cleomenes <hi>King of</hi> Sparta. Plut.</note> he, who eaſie acceſs did affoord,</l>
+               <l>Was only worthy thought, to be a King.</l>
+            </lg>
+            <lg n="157">
+               <head>157.</head>
+               <l>Here <hi>Vertue</hi>'s Tree appears to grow and ſpread,</l>
+               <l>And ſtand, unſhaken, fix'd by a deep root;</l>
+               <l>And tho' the Tree is hid, as was * <hi>Nile</hi>'s head,</l>
+               <l>Yet 'tis known to his People by the Fruit.<note n="†" place="bottom">'Twas ſaid of old that <hi>Nile</hi> conceal'd its ſpring, for the Ancients were igno<g ref="char:EOLhyphen"/>rant of its original; but 'tis now ſaid to ariſe from the mountains, called <hi>Lunae montes,</hi> in <hi>Ethiopla:</hi> the lenth of this River is about <hi>900 German</hi> miles.</note>
+               </l>
+            </lg>
+            <lg n="158">
+               <head>158.</head>
+               <l>As that cold<note n="*" place="bottom">Mandragoras, or Mandrake. <hi>Plut.</hi>
+                  </note> herb, when growing near the Vine,</l>
+               <l>Tranſmits its healing Vertue to the Grape;</l>
+               <l>Ev'n ſo his active <hi>Vertues</hi> theirs refine,</l>
+               <l>And by his<note n="†" place="bottom">Ipſiſe homines in reges, velut unici exemplimores formant. Liv. de<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <hi>1.</hi> lik. <hi>1.</hi>
+                  </note> Courtly <hi>Manners</hi> theirs they ſhape.</l>
+            </lg>
+            <lg n="159">
+               <pb n="51" facs="tcp:99515:26"/>
+               <head>159.</head>
+               <l>By him that ſubtile<note n="†" place="bottom">Machiavels precept.</note> Precept's not tranſcrib'd</l>
+               <l>For the <hi>appearance,</hi> not the <hi>thing</hi> to care;</l>
+               <l>He, only by <hi>Moralities,</hi> is brib'd,</l>
+               <l>Not by <hi>Politicks,</hi> which vain <hi>Titles</hi> bear.</l>
+            </lg>
+            <lg n="160">
+               <head>160.</head>
+               <l>Could Sacred <hi>Vertue</hi> humane ſhape inveſt,</l>
+               <l>Sure it would his aſſume, as moſt <hi>Divine;</hi>
+               </l>
+               <l>Leſt th' Inns ſhould be miſtaken by her Gueſt,</l>
+               <l>Here are hung up all<note n="*" place="bottom">
+                     <hi>Plutarch</hi> mustreth up ten ſigns, which he makes to be the diſcoverers and touch<g ref="char:EOLhyphen"/>ſtone of <hi>Vertue.</hi> See his Morals, of proccieding in <hi>Vertue.</hi>
+                  </note> 
+                  <hi>Plutarch</hi>'s ſpeaking ſigns.</l>
+            </lg>
+            <lg n="161">
+               <head>161.</head>
+               <l>Thus he the toils of <hi>Vertue</hi> firſt o'r come,</l>
+               <l>May<note n="†" place="bottom">Honor eſt virtutis praemium. <hi>Hence</hi> Virgil. Ipſis praecipue ductoribus addit honores. l. <hi>5.</hi> Aeneid.</note> Honour's Trophees, not unjuſtly claim;</l>
+               <l>So all through <hi>Vertue</hi>'s Temple, at old <hi>Rome,</hi>
+               </l>
+               <l>Were wont to paſs, e're they to <hi>Honour</hi>'s came.</l>
+            </lg>
+            <lg n="162">
+               <head>162.</head>
+               <l>As <hi>Caeſar</hi> did his waiting Friends engage,</l>
+               <l>To ſeal his laſt breath with a joyful cry,</l>
+               <l>So he, his part once acted on the Stage,</l>
+               <l>Will ſure deſerve a ſolemn <hi>Plaudite.</hi>
+               </l>
+            </lg>
+            <lg n="163">
+               <head>163.</head>
+               <l>His former <hi>benefits,</hi> among them ſown,</l>
+               <l>(Tho yet the later he upon them heaps)</l>
+               <l>
+                  <pb n="52" facs="tcp:99515:27"/>
+                  <note n="†" place="bottom">
+                     <hi>Twice blaefied,</hi> &amp;c. <hi>from</hi> Virgil Bis quae ſolem, bis frigora ſenſit.</note>Twice blaſted, now by's<note n="*" place="bottom">By his ſecond heat, <hi>&amp;c. (1)</hi> their Gratitude, blaſted twice before, through his departure, ſeems now by his ſecond Preſence to be reviv'd, and warm'd again; and they become thankful for his benifit.</note> ſecond heat are grown</l>
+               <l>Mature, and he a<note n="‡" place="bottom">
+                     <hi>From</hi> Virgil: Illa ſeges demum votis reſponder.</note> thankful Harveſt reaps.</l>
+            </lg>
+            <lg n="164">
+               <head>164.</head>
+               <l>
+                  <note n="†" place="bottom">Beatius est dare quam accipere, Act. <hi>20.</hi>
+                  </note>The better part he chuſeth, to <hi>Beſtow,</hi>
+               </l>
+               <l>To take with thankful hearts, they make't their work,</l>
+               <l>Ne'r to be chang'd into the<note n="*" place="bottom">Cuculus matrem vorat: ingratus Benefactorem. Adag: ex Coſmoſcopiâ Chriſti<g ref="char:EOLhyphen"/>anâ. <hi>N. Chytrael.</hi>
+                  </note> male Cuckow,</l>
+               <l>But hatch'd, as't were, under the<note n="‡" place="bottom">
+                     <hi>Ciconia</hi> pietatis erga parentes magistra est. <hi>Idem.</hi>
+                  </note> grateful Stork.</l>
+            </lg>
+            <lg n="165">
+               <head>165.</head>
+               <l>They pray he may, at home, ſound <hi>Health</hi> enjoy,</l>
+               <l>Where th'<note n="*" place="bottom">The air is here more cold, whereby the natural heat is more united and kept in the bodie, which renders the people more strong, and longer liv'd.</note> air leſs then the <hi>Engliſh</hi>
+                  <note n="†" place="bottom">The ſoil is there more fat; which, as <hi>Cyrus</hi> ſaid, makes men more ſoft and ef<g ref="char:EOLhyphen"/>feminate, then the ſharp and hillie Countries; hence <hi>Cic.</hi> Ad juvenilem libidi<g ref="char:EOLhyphen"/>nem copia voluptatum gliſcit illa, nt ignis oleo. <hi>Beſides the mariſh ground doth exhale many vapours, which rendreth the air more thick, and un<g ref="char:EOLhyphen"/>wholeſome.</hi>
+                  </note> ſoil offends;</l>
+               <l>Where he can better his<note n="‡" place="bottom">
+                     <hi>(le) Honeſty. Hence the ſimilltude of</hi> Thalaſius. Sicut anima corpus ſecun<g ref="char:EOLhyphen"/>dum naturam viviſicat; ita &amp; animam virtus.</note> Soul's <hi>Health</hi> employ,</l>
+               <l>And ſway the <hi>Bodie</hi>'s, if't on that depends.</l>
+            </lg>
+            <lg n="166">
+               <head>166.</head>
+               <l>May theſe hot <hi>Baths</hi> thus prove medicinal,</l>
+               <l>To purge away all pain, and pamper <hi>Health;</hi>
+               </l>
+               <l>
+                  <pb n="53" facs="tcp:99515:27"/>So <hi>Aeſon</hi>'s youth the<note n="†" place="bottom">
+                     <hi>Medes:</hi> who reſtored youth to old <hi>Aeſon,</hi> the father of <hi>Jaſon,</hi> who, by <hi>Medea's</hi> art, stole the Golden Fleece from <hi>Colchos.</hi> See <hi>Ovid. Metamorph. lib. 7.</hi>
+                  </note> 
+                  <hi>Sorc'reſs</hi> did recal,</l>
+               <l>And made him Grat'late in the ſtoln wealth.</l>
+            </lg>
+            <lg n="167">
+               <head>167.</head>
+               <l>May his ſweet mate, thus wat'red, pregnant grow,</l>
+               <l>And, landed ſafe, her maſculine fraught unlade;</l>
+               <l>So while <hi>Nile</hi> doth the <hi>Pharian</hi> Lands o'rflow,</l>
+               <l>Fruites are produc'd, and<note n="†" place="bottom">Plurima cultores verſis animalia glebis Inveniunt, &amp;c. <hi>Ovid. Metam. 1.</hi>
+                  </note> living creatures made.</l>
+            </lg>
+            <lg n="168">
+               <head>168.</head>
+               <l>After the fall of calm and balmie ſhow'rs,</l>
+               <l>Which to be welcom'd, by the Fields are ſeen;</l>
+               <l>The ſmiling <hi>ſpring</hi> ſends forth her plants and flow'rs,</l>
+               <l>And paints the teeming earth with white and green.</l>
+            </lg>
+            <lg n="169">
+               <head>169.</head>
+               <l>O may this Treaſure not long here be couch'd,</l>
+               <l>But drain'd, as ſtreams, from this delicious ſource,</l>
+               <l>
+                  <note n="†" place="bottom">Fama eſt in Delo naſci olivam &amp; palmam, quibus tactis Latonam ſubitò partum edidiſſe cum ante id facere non potuiſſet. Aelian: in variâ hiſtoriâ.</note>The Palm and Olive, by <hi>Latona</hi> touch'd,</l>
+               <l>Did the ſtrait paſſage, long obſtructed, force.</l>
+            </lg>
+            <lg n="170">
+               <head>170.</head>
+               <l>The fruitful Womb is now to <hi>Scotland</hi> ſent,</l>
+               <l>To make the number up in <hi>CHARLES</hi> his waine;</l>
+               <l>Could Nature then be ſo improvident,</l>
+               <l>As t' introduce a <hi>Prince,</hi> without a Train.</l>
+            </lg>
+            <lg n="171">
+               <pb n="54" facs="tcp:99515:28"/>
+               <head>171.</head>
+               <l>This doubtful Gueſt, <hi>Health,</hi> at dear rate repair'd,</l>
+               <l>To treat aright, the men of skill adviſe,</l>
+               <l>Not to be toſs'd by cares, nor paſſions ſnar'd,</l>
+               <l>But th'<note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, menſura in omnibus optima. <hi>Pyth.</hi>
+                  </note> mean to keep in food, and exerciſe.<note place="bottom">See <hi>Plutarch</hi>'s precepts of health.</note>
+               </l>
+            </lg>
+            <lg n="172">
+               <head>172.</head>
+               <l>And to recruited <hi>Health</hi> may<note n="†" place="bottom">Of old they attributed much unto <hi>Fortune,</hi> making it the Governeſs of their, lives and estates; hence <hi>Juven: ſat: 10: — ſed te</hi>
+                     <p>
+                        <hi>Nos faclmus, Fortuna, Deam coelo<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> locamus.</hi>
+                     </p>
+                     <p>And tho <hi>Poetlcallie,</hi> the word <hi>Fortune</hi> be made uſe of now; Yet the ſucceſs and event of everie thing is to be aſcribed to God only; hence <hi>Homer,</hi> (tho' he aſ<g ref="char:EOLhyphen"/>ſigns the pow'r to the wrong god,' out of meer ignorance) ſings well — <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. <hi>(1) Jovi ſuerint haec omuia curae.</hi>
+                     </p>
+                  </note> 
+                  <hi>Fortune</hi> add</l>
+               <l>Encreaſe of Lordſhip, equal to her own;</l>
+               <l>On whoſe retail may no co-heir be glad;</l>
+               <l>But, without Rival, that you Reign alone.</l>
+            </lg>
+            <lg n="173">
+               <head>173.</head>
+               <l>
+                  <note n="†" place="bottom">
+                     <hi>From</hi> Homer: Iliad: 1. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. (i e) Haud expedit unquam Multorum imperium, nobis Rex unicus eſto.</note>As 'tis more ſafe one bear ſupream Command,</l>
+               <l>Then it' mongſt many diff'ring heads ſhould fall;</l>
+               <l>So, under <hi>Charles,</hi> wee'd have our ſpot of Land</l>
+               <l>(Unlike the Eccho) know but one man's <hi>Call.</hi>
+               </l>
+            </lg>
+            <lg n="174">
+               <head>174.</head>
+               <l>This this ſhall be the ſcope of all our Vows</l>
+               <l>That Both, in honour, long together live;</l>
+               <l>
+                  <pb n="55" facs="tcp:99515:28"/>While to Subjection's yoke each calmly bowes,</l>
+               <l>And under them, be Chronicled to <hi>Thrive.</hi>
+               </l>
+            </lg>
+            <lg n="175">
+               <head>175.</head>
+               <l>
+                  <note n="†" place="bottom">
+                     <hi>Serus in Coelum redeas: Hor: lib:</hi> 1: <hi>od:</hi> 2: <hi>Alexander</hi> and <hi>Marie</hi> the Chriſtian Names of the E. and Counteſs of <hi>Calan<g ref="char:EOLhyphen"/>der,</hi> both famous in Sacred, and prophane <hi>Hiſtorie,</hi> to whom that verſe of <hi>Strozius pater,</hi> may be fitly applyed. <hi>Omnibus his celebrem virtus dedit inclvta famam.</hi>
+                  </note>Till Heav'n, firſt of their <hi>Vertues</hi> th' Earth poſſeſt,</l>
+               <l>And fill'd with fame, late to receive them daigne,</l>
+               <l>Where <hi>Marie,</hi> with the worthies, ſhall be bleſt,</l>
+               <l>And <hi>Alexander,</hi> more then <hi>Monarch,</hi> raign.</l>
+            </lg>
+            <lg n="176">
+               <head>176. The EPILOGUE.</head>
+               <l>His luckie aſpect, when from us estrang'd,</l>
+               <l>With lofty buskins did the ſtage befriend;</l>
+               <l>Th' unluckie Scene its Reſtitution chang'd,</l>
+               <l>And made the Play with Comick ſhow to end.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="panegyric">
+            <pb facs="tcp:99515:29"/>
+            <pb n="57" facs="tcp:99515:29"/>
+            <head>Illuſtriſſimo <hi>HEROI,</hi> ALEXANDRO <hi>Calanderiae Comiti, Almondiae Regulo,</hi> &amp;c. Cum ditiſſimâ Munificentiâ Monumentum exſtruxiſſet fontale <hi>Varij Sacelli</hi> 4<hi rend="sup">o</hi> Cal. Jun. 1675.</head>
+            <head type="sub">Geſta ſua Carmine pro Urbanis Gratulabundo conſecrat <hi>M. L.</hi>
+            </head>
+            <div type="poem">
+               <epigraph>
+                  <bibl>OVID.</bibl>
+                  <q>
+                     <l>Nunquam pigra fuit noſtris tua gratia rebus.</l>
+                     <l>Sit piger ad poenas Princeps, ad praemia velox.</l>
+                  </q>
+                  <q>
+                     <l>
+                        <hi>Lo thine</hi> Indulgence <hi>unconstrained came,</hi>
+                     </l>
+                     <l>
+                        <hi>When e're our drooping State requir'd the ſame.</hi>
+                     </l>
+                     <l>
+                        <hi>Peers ſhould be ſwift to</hi> give <hi>and to</hi> reward,</l>
+                     <l>
+                        <hi>Whom</hi> Clemency <hi>to puniſh ſhould retard.</hi>
+                     </l>
+                  </q>
+               </epigraph>
+               <lg>
+                  <l>SPlendet amor <hi>donis;</hi> Lymphas ubi cogis in urbem,</l>
+                  <l>Debita muneribus <hi>Gratia</hi> quanta tuis!</l>
+               </lg>
+               <lg>
+                  <l>Inſtar aquae ſaliet tua fama è fonte perenni,</l>
+                  <l>
+                     <hi>Nommis</hi> inſculptas rupe tenente notas.</l>
+               </lg>
+               <lg>
+                  <l>Cedite j<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m <hi>Vario, Mundi Miracla, Sacello?</hi>
+                  </l>
+                  <l>Cedite <hi>Pyramides,</hi> clarius extat opus.</l>
+               </lg>
+               <lg>
+                  <pb n="58" facs="tcp:99515:30"/>
+                  <l>Fonte <hi>Calanderio</hi> mergat, verſetur <hi>Apollo,</hi>
+                  </l>
+                  <l>Uſque ſit <hi>Aonio</hi> lympha ſacrata choro.</l>
+               </lg>
+               <lg>
+                  <l>Ut <hi>Leo</hi> veſtra <hi>ruber</hi> palmis <hi>Inſignia</hi> tollit,</l>
+                  <l>Sic populus laudes ſuſtinet <hi>ore</hi> tuas.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Gloria</hi> te decorat, ceuaurata Corona <hi>Leonem,</hi>
+                  </l>
+                  <l>Nectare quae meritum <hi>Carminis</hi> uſque vehet.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Hebdomadem</hi> Verſus erexi haud laudibus aequam,</l>
+                  <l>
+                     <hi>Pleïas</hi> in veſtro, quae ſit honore micans.</l>
+               </lg>
+               <div type="translation">
+                  <head>ENGLISHED.</head>
+                  <lg n="1">
+                     <head>1.</head>
+                     <l>YOur pious love beheld in <hi>Beauties</hi> glaſs</l>
+                     <l>Doth <hi>Love</hi> ſurpaſs,</l>
+                     <l>View'd in the Fount</l>
+                     <l>Rear'd in your ancient Town; it doth amount</l>
+                     <l>To ſumptuous charges, which with chearful heart</l>
+                     <l>You did impart.</l>
+                     <l>Each trickling drop ſhall ſound your Fame,</l>
+                     <l>Each Stone engraven bear your laſting name.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>II.</head>
+                     <l>Theſev'n rare <hi>Monuments</hi> of humane pride</l>
+                     <l>Are here deſcri'd;</l>
+                     <l>Nay streight give place</l>
+                     <l>To this exalted <hi>Pyramide</hi> of Grace;</l>
+                     <l>For lo our <hi>noble Patriots</hi> frame</l>
+                     <l>His <hi>Gifts</hi> proclame.</l>
+                     <l>Let <hi>Phoebus</hi> n'ere from it retire</l>
+                     <l>But ſtill be hallow'd to <hi>Apollo</hi>'s Quire.</l>
+                  </lg>
+                  <lg n="3">
+                     <pb n="59" facs="tcp:99515:30"/>
+                     <head>III.</head>
+                     <l>As th' <hi>Lyon</hi> Sejant <hi>Gules</hi> his paws advance</l>
+                     <l>Your cognizance,</l>
+                     <l>So, as in fort,</l>
+                     <l>The peoples dutious tongues your praiſe ſupport.</l>
+                     <l>And as the gen'rous <hi>Lyons</hi> temples round</l>
+                     <l>With Gold are crown'd:</l>
+                     <l>So yours with Fame, which ſhall rehearſe</l>
+                     <l>Your merit in a never dying Verſe.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>IV.</head>
+                     <l>In lien of a proud fabrick to make ev'n</l>
+                     <l>The Wonders (ſev'n)</l>
+                     <l>My <hi>Muſe</hi> appears,</l>
+                     <l>And to your Shrine a Week of <hi>Diſtichs</hi> rears;</l>
+                     <l>Not on this ſev'nfold <hi>Theatre</hi> to raiſe</l>
+                     <l>Nor reach your praiſe;</l>
+                     <l>But to b' as <hi>ſev'n Stars</hi> in your <hi>Honour,</hi>
+                     </l>
+                     <l>Set up t' acquaint <hi>Spectatours</hi> with the <hi>Donour.</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Ad Cives Feſtivos,</hi> Aqua fontanâ in urbem <hi>4<hi rend="sup">o</hi> Cal. Jun.</hi> pri<g ref="char:EOLhyphen"/>mum introductâ.</head>
+               <head type="sub">Exhortatio.</head>
+               <lg>
+                  <l>DUm <hi>CAROLI</hi> reducis memor, Auctoriſque ſalutis</l>
+                  <l>
+                     <hi>Pocula</hi> verte; <hi>locus, lympha, Dieſque</hi> vocant.</l>
+                  <l>
+                     <pb n="60" facs="tcp:99515:31"/>Laetitiam teſtare; novo neu parce Liquori</l>
+                  <l>Uſque eſt, inſignis bis, celebranda dies.</l>
+               </lg>
+               <div type="translation">
+                  <head>ENGLISHED.</head>
+                  <lg>
+                     <l>SInce <hi>Fountain, Day</hi> and <hi>Place</hi> to drink invite</l>
+                     <l>Our <hi>Sov'raign</hi> and free <hi>Patrons</hi> health; come, pray</l>
+                     <l>Fill up to th <hi>brim;</hi> and in a merry fit</l>
+                     <l>Let's ſolemnize this twice auſpicious Day.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="poem">
+               <head>Alexander Livingſto<g ref="char:EOLhyphen"/>nius.</head>
+               <lg>
+                  <head>Anagr.</head>
+                  <l>
+                     <hi>Si ingratus, inde lex nova.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Carmen</head>
+                  <l>
+                     <hi>Nil, reor, ingratis, niſi lexnova, plaudere poſſit;</hi>
+                  </l>
+                  <l>
+                     <hi>Quam tua, ritè, minàs mens generoſa probat.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>Engliſh'd</hi>
+               </p>
+               <lg>
+                  <l>Nothing, me thinks, can handſomly allow</l>
+                  <l>Of baſe ingratitude, condemn'd by you,</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nleſs it be ſome glozing peice of frand,</l>
+                  <l>Which thou, moſt gen'rous ſoul, will ne'r appland.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="61" facs="tcp:99515:31"/>
+               <head>Alexander Calanderii Comes.</head>
+               <lg>
+                  <head>Annagr.</head>
+                  <l>
+                     <hi>Ex animi calore</hi> (h) <hi>erclè dona das.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Carmen</head>
+                  <l>
+                     <hi>Cùm doni pretium frigus perſaepe remittat,</hi>
+                  </l>
+                  <l>
+                     <hi>Auxerat uſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> 
+                        <hi>animi</hi> munera veſtra</hi> Calor.</l>
+               </lg>
+               <p>
+                  <hi>Engliſh'd.</hi>
+               </p>
+               <lg>
+                  <l>While a faint heart, in open hand reclus'd,</l>
+                  <l>Another's largeſs hath ofitimes abus'd,</l>
+                  <l>The value of your lib'ral gifts are still</l>
+                  <l>Rais'd by the heat of your concurring <hi>Will.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>In <hi>Mariam,</hi> Comitiſſam De <hi>Calander,</hi> EPIGRAMMA.</head>
+               <lg>
+                  <l>
+                     <hi>Juno, Minerva, Venus, Charites, Cybele<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Camoena,</hi>
+                  </l>
+                  <l>Optima, contendunt, quae tibi dona daret:</l>
+                  <l>En Majeſtatem vultûs Regina recludit,</l>
+                  <l>Fronte perilluſtrem ſignificante domum.</l>
+                  <l>Imbuit ingenio doctiſſima <hi>Pallas</hi> acuto,</l>
+                  <l>Indole vel ſexum condecorante ſuum.</l>
+                  <l>Cum ſplendore modum formae <hi>Venus</hi> indidit aequum,</l>
+                  <l>Rore pudicitiae perpoliente genas.</l>
+                  <l>At <hi>Virtutis</hi> apem <hi>Charites</hi> fecere, ſonante</l>
+                  <l>Praeter <hi>Virtutem</hi> voce manuve nihil.</l>
+                  <l>
+                     <hi>Te Cybele,</hi> turrita caput, Pietate coronat,</l>
+                  <l>Unde Roſam verae <hi>Relligionis</hi> oles.</l>
+                  <l>
+                     <pb n="62" facs="tcp:99515:32"/>Dona <hi>Deum</hi> repetens te Laude <hi>Camoena</hi> notavit,</l>
+                  <l>Iuſuper at dona haec uſque vigere dabit.</l>
+               </lg>
+               <div type="translation">
+                  <head>ENGLISHED.</head>
+                  <lg>
+                     <l>
+                        <hi>Madam,</hi> the <hi>Goddeſſes</hi> litigious grow,</l>
+                     <l>Which ſhould confer the nobleſt gift on you;</l>
+                     <l>The<note n="a" place="bottom">Juno</note> Queen diſcl ſeth a majeſtick front,</l>
+                     <l>VVhich of your high extraction gives account.</l>
+                     <l>The<note n="b" place="bottom">Minerva</note> laureate Dame a pregnant VVit doth vent,</l>
+                     <l>And a choice <hi>genius,</hi> the <hi>She's</hi> ornament.</l>
+                     <l>
+                        <hi>Love's</hi> Queen ſhews as much beauty as is fit,</l>
+                     <l>And with the chasteſt colours brightens it.</l>
+                     <l>The <hi>Graces</hi> make your good works to abound,</l>
+                     <l>VVhile Voice and Hand can nought, but <hi>Vertue</hi> ſound:</l>
+                     <l>The<note n="c" place="bottom">Cybele.</note> Turban'd Dame your pious orgies Crowns,</l>
+                     <l>Hence your Devotion is ſo ſavoury grown.</l>
+                     <l>And while the <hi>Muſes</hi> all theſe gifis recount,</l>
+                     <l>Their own Donations all the rest ſurmount.</l>
+                     <l>For theſe, which, with their owner, might decline,</l>
+                     <l>To all Posterity they will enſhrine.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="poem">
+               <pb n="63" facs="tcp:99515:32"/>
+               <head>Maria Hamiltona.</head>
+               <lg>
+                  <head>Anagr. 1.</head>
+                  <l>Amor animi halat.</l>
+               </lg>
+               <p>(1) Hearty affection breath's out.</p>
+               <lg>
+                  <head>Car.</head>
+                  <l>
+                     <hi>Quod tibi dilecti ſint proximus &amp;</hi> Deus, <hi>inſto,</hi>
+                  </l>
+                  <l>
+                     <hi>Veſtri quandò</hi> Animi <hi>ſuaviter</hi> halat amor.</l>
+               </lg>
+               <lg>
+                  <l>(1) <hi>Love,</hi> as the two Decalogue-objects due,</l>
+                  <l>
+                     <hi>God,</hi> and our <hi>neighbour,</hi> will to both accrue;</l>
+                  <l>For't ſcents ſo ſweetly, thus exhal'd from you.</l>
+               </lg>
+               <lg>
+                  <head>Anagr. 2.</head>
+                  <l>O Ara miti in mala.</l>
+               </lg>
+               <p>(1) O ſanctuary to the meek againſt troubles.</p>
+               <lg>
+                  <head>Car.</head>
+                  <l>
+                     <hi>Improbus hic nullo, duruſve potitur aſylo,</hi>
+                  </l>
+                  <l>In mala <hi>quum ſolum</hi> mitibus ara <hi>pates.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>(1) The lewd, and rude need not expect to ſhare</l>
+                  <l>In your Protection, when, 'gainſt galling care,</l>
+                  <l>A rampier to the <hi>meek</hi> you only are.</l>
+               </lg>
+               <lg>
+                  <head>Anagr. 3.</head>
+                  <l>At arma animi alo.</l>
+               </lg>
+               <p>(1) But I maintain the armour of the mind.</p>
+               <lg>
+                  <head>Car.</head>
+                  <l>
+                     <hi>Exultent artes talem reperiſſe</hi> Patronam,</l>
+                  <l>
+                     <hi>Quae ferat,</hi> arma animi <hi>convenienter</hi> alo.</l>
+               </lg>
+               <lg>
+                  <l>(1) Let <hi>Arts</hi> exult, that they have found, in need,</l>
+                  <l>Such noble <hi>Patroneſs,</hi> by name decreed</l>
+                  <l>The working mind, in ſeaſon, thus to feed.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="encomium">
+               <pb facs="tcp:99515:33"/>
+               <pb n="65" facs="tcp:99515:33"/>
+               <head>On the preceeding POEM, <hi>Patronus Redux.</hi>
+               </head>
+               <lg>
+                  <l>Here <hi>Maro</hi>'s loafty, and immortal ſtraines,</l>
+                  <l>Here <hi>Seneca</hi>'s Diviner raptures flow;</l>
+                  <l>Here <hi>Ovid</hi>'s fancy in this Mirrour ſhines,</l>
+                  <l>
+                     <hi>Plutarch</hi>'s <hi>Moral'ty</hi> here it ſelf doth ſhow.</l>
+               </lg>
+               <lg>
+                  <l>Here <hi>Learning</hi> burniſht with <hi>Pegaſian</hi> fire,</l>
+                  <l>And <hi>Love</hi> with <hi>Wit</hi> theſe mighty Lines Inſpire:</l>
+                  <l>Which Lines, to give my judgement of the whole,</l>
+                  <l>Will <hi>Burnet</hi> and <hi>Buchanan</hi> both control.</l>
+               </lg>
+            </div>
+            <div type="encomium">
+               <head>To the Learned and ingenious Gentleman, <hi>M.</hi> L. the Authour.</head>
+               <lg>
+                  <l>Sir (tho' unto my grief) I muſt confeſs,</l>
+                  <l>
+                     <hi>I</hi> know you not ſo much as by the Face,</l>
+                  <l>Yet by your other Writtings which <hi>I</hi> ſaw,</l>
+                  <l>And by the Portraicture which here you draw,</l>
+                  <l>Both of your Self and Patron, not to ſmother</l>
+                  <l>My thoughts, you both are happy, each in other.</l>
+                  <l>So let the <hi>Patron</hi>'s love and <hi>Poet's</hi> be</l>
+                  <l>Bounded with nothing but eternitie.</l>
+               </lg>
+               <closer>
+                  <signed>N. P.</signed>
+               </closer>
+            </div>
+            <div type="encomium">
+               <pb n="66" facs="tcp:99515:34"/>
+               <head>TO Michael Livingſtone OF Pantasken, Upon his <hi>Panegyrick</hi> on the Earl of Calander.</head>
+               <lg>
+                  <l>Tho' <hi>Poets</hi> now, in this malicious age,</l>
+                  <l>Infactions joyn, and indamn'd Clubs engage;</l>
+                  <l>Plotting to bite in mercenarie Rhimes,</l>
+                  <l>And with vile Satyres to lampoon the times:</l>
+                  <l>Yet here ſuch paths our Author ſeeks to ſhun,</l>
+                  <l>And can't, with pleaſure, in theſe footſteps run,</l>
+                  <l>Scorning to build the Trophies of his Fame,</l>
+                  <l>Upon the ruines of ſome nobler Name:</l>
+                  <l>Neither will he the ſenſual Creature pleaſe,</l>
+                  <l>Our huffing Gallants, or ſuch Fops as theſe,</l>
+                  <l>By Writing bawdie; or, with placquet Rhimes,</l>
+                  <l>Nick all the itching Wenches of the Times.</l>
+                  <l>Theſe eaſier Ways, he, with contempt, doth view,</l>
+                  <l>And not the <hi>Many,</hi> but the <hi>Vertuous,</hi> few,</l>
+                  <l>He ſtrives to pleaſe, and ſet that goddeſs forth</l>
+                  <l>
+                     <hi>Vertue,</hi> adorn'd with all her native worth</l>
+                  <l>Such as ſhe was, e're common made by Fame,</l>
+                  <l>Who chriſtned <hi>Vice</hi> with her uſurped <hi>Name.</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <signed>Will. Scot.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="addenda">
+            <pb n="67" facs="tcp:99515:34"/>
+            <head>ADDENDA.</head>
+            <p>SEe <hi>pag.</hi> 18. <hi>num.</hi> 23. to which Notes upon the ſaid <hi>num<g ref="char:EOLhyphen"/>ber,</hi> add, that <hi>John Livingſtoun</hi> of <hi>Kirkland,</hi> died <hi>June</hi> 11. 1681. about 2. a cloak in the morning; what way the Houſe, wherein he was burnt, was fired, is yet un<g ref="char:EOLhyphen"/>revealed.</p>
+            <p>See <hi>p.</hi> 27. <hi>n.</hi> 61. Now at the <hi>Maiden City,</hi> &amp;c. This name of the Town is deriv'd from the Caſtle, called in Latine; <hi>Caſtra Puellarum;</hi> it is conveniently Si<g ref="char:EOLhyphen"/>tuated upon a Rock, overlooking the whole Town, His Majeſty keeps a ſtrong Gariſon therein, under whom the right Honourable, the Marqueſs of <hi>Queensberry</hi> is Gover<g ref="char:EOLhyphen"/>nour, as alſo, Lord high Theſaurer; For,
+<q>
+                  <l>In one mans hand the <hi>Caſtle</hi> and the <hi>Purſe,</hi>
+                  </l>
+                  <l>Will beſt each other <hi>Fortifie</hi> and <hi>Nurſe.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>See <hi>pag.</hi> 42. <hi>n.</hi> 124. where, for <hi>Without injuring inno<g ref="char:EOLhyphen"/>cence,</hi> &amp;c. underſtand,
+<q>Wîthout<note n="†" place="bottom">'Tis a Law in <hi>England,</hi> call'd, <hi>Scandalum magnatum,</hi> whereby any, injur<g ref="char:EOLhyphen"/>ing the reputation, or Perſon of a Nobleman, are puniſhed.</note> 
+                  <hi>Peer</hi>'s ſcandal, legally impeach.</q>
+            </p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>TO anſwer to this mark, † <hi>pag.</hi> 44. <hi>numb.</hi> 132. there is omitted in the Notes, this Latine phraſe, <hi>prata rident.</hi>
+            </p>
+            <p>As alſo, <hi>p.</hi> 45. <hi>n.</hi> 136. to anſwer to the mark, † there is omitted in the Notes, <hi>Noinquam minus ſolus quam cum ſolus,</hi> the ſaying of <hi>Scipio maj. Aſri.</hi>
+            </p>
+            <p>There are ſeveral literal errors which have eſcaped the Printer, to be amend<g ref="char:EOLhyphen"/>ed thus: For <hi>ingeniouſly p.</hi> 7. <hi>l.</hi> 5. read <hi>engenuouſly.</hi> For <hi>be, p.</hi> 11. <hi>l.</hi> 16. read <hi>b'.</hi> For <hi>given, p.</hi> 20. <hi>l.</hi> 4. read <hi>giv'n.</hi> For <hi>que, p.</hi> 21. <hi>l.</hi> laſt, read, <hi>quod.</hi> For <hi>caſt, p.</hi> 23. <hi>l.</hi> 3. read <hi>caſts.</hi> For, <hi>from earth, p.</hi> 24. <hi>l.</hi> 6. read <hi>from</hi> th' <hi>earth.</hi> For <hi>ſhow, p.</hi> 55. <hi>l.</hi> laſt, read, <hi>ſhoot.</hi>
+            </p>
+            <p>Any like faults that occur, the Reader may help them accordingly.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
